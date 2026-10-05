@@ -1919,6 +1919,11 @@
     },
     {
       "date": "2026-10-04",
+      "gameId": "meerut-city",
+      "value": "66"
+    },
+    {
+      "date": "2026-10-04",
       "gameId": "new-taj",
       "value": "04"
     },
@@ -2500,7 +2505,7 @@
     {
       "date": "2026-10-05",
       "gameId": "mohali",
-      "value": "XX"
+      "value": "63"
     },
     {
       "date": "2026-10-05",
@@ -2515,12 +2520,12 @@
     {
       "date": "2026-10-05",
       "gameId": "new-taj",
-      "value": "XX"
+      "value": "55"
     },
     {
       "date": "2026-10-05",
       "gameId": "chennai",
-      "value": "XX"
+      "value": "15"
     },
     {
       "date": "2026-10-05",
@@ -2530,7 +2535,7 @@
     {
       "date": "2026-10-05",
       "gameId": "taj",
-      "value": "XX"
+      "value": "01"
     },
     {
       "date": "2026-10-05",
@@ -2545,17 +2550,17 @@
     {
       "date": "2026-10-05",
       "gameId": "delhi-bazar-day",
-      "value": "XX"
+      "value": "85"
     },
     {
       "date": "2026-10-05",
       "gameId": "maa-bhagwati",
-      "value": "XX"
+      "value": "38"
     },
     {
       "date": "2026-10-05",
       "gameId": "anarkali",
-      "value": "XX"
+      "value": "18"
     },
     {
       "date": "2026-10-05",
