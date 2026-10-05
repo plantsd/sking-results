@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Poll only due, unresolved current-month SattaKing cells and recent corrections.
+"""Poll due, unresolved current-month SattaKing cells, explicit unsettled selections, and recent corrections.
 
 The public repository contains source data only. Verified numeric results are posted
 through a dedicated authenticated Edge Function before the archive is committed.
@@ -215,6 +215,34 @@ def due(game: dict[str, Any], result_date: dt.date, now: dt.datetime) -> bool:
         return False
 
 
+def parse_source_checks(payload: Any, games_by_id: dict[str, dict[str, Any]], routes: dict[str, str], now: dt.datetime) -> set[tuple[str, str]]:
+    """Validate queued per-date SattaKing requests; never permit prior-month or future fetches."""
+    if not isinstance(payload, dict) or payload.get("ok") is not True or not isinstance(payload.get("checks"), list):
+        raise SourceError("Source-check endpoint returned an invalid response")
+    checks: set[tuple[str, str]] = set()
+    month_key = now.strftime("%Y-%m")
+    if len(payload["checks"]) > 5000:
+        raise SourceError("Source-check endpoint returned too many dates")
+    for item in payload["checks"]:
+        if not isinstance(item, dict) or not isinstance(item.get("game_id"), str) or not isinstance(item.get("date"), str):
+            raise SourceError("Source-check endpoint returned an invalid date entry")
+        game_id, date_text = item["game_id"], item["date"]
+        if game_id not in routes or game_id not in games_by_id:
+            raise SourceError("Source-check endpoint returned an unmapped game")
+        try:
+            result_date = dt.date.fromisoformat(date_text)
+        except ValueError as exc:
+            raise SourceError("Source-check endpoint returned an invalid date") from exc
+        if result_date.isoformat() != date_text:
+            raise SourceError("Source-check endpoint returned a non-canonical date")
+        if date_text[:7] != month_key or result_date > now.date():
+            continue
+        if not due(games_by_id[game_id], result_date, now):
+            continue
+        checks.add((game_id, date_text))
+    return checks
+
+
 def chart_correction_allowed(existing: str | None, date_text: str, recent_dates: set[dt.date]) -> bool:
     return existing not in (None, "XX") and date_text in {day.isoformat() for day in recent_dates}
 
@@ -228,12 +256,24 @@ def plan_chart_jobs(
     recent_dates: set[dt.date],
     home_values: dict[tuple[str, dt.date], str | None],
     homepage_valid: bool,
+    forced_checks: set[tuple[str, str]] | None = None,
 ) -> dict[str, set[str]]:
-    """Select due current-month unresolved cells and safe recent correction fallbacks."""
+    """Select due current-month unresolved cells, explicit checks, and safe recent corrections."""
     jobs: dict[str, set[str]] = {}
+    forced_checks = forced_checks or set()
+    forced_by_game: dict[str, set[str]] = {}
+    for game_id, date_text in forced_checks:
+        forced_by_game.setdefault(game_id, set()).add(date_text)
     first_day = today.replace(day=1)
     for game in games:
         game_id = str(game["id"])
+        for date_text in forced_by_game.get(game_id, set()):
+            try:
+                forced_day = dt.date.fromisoformat(date_text)
+            except ValueError:
+                continue
+            if date_text[:7] == month_key and forced_day <= today and due(game, forced_day, now):
+                jobs.setdefault(game_id, set()).add(date_text)
         day = first_day
         while day <= today:
             key = (game_id, day.isoformat())
@@ -332,35 +372,81 @@ def upsert_cell(indexed: dict[tuple[str, str], str], game_id: str, date: str, in
     return False, False
 
 
-def call_ingest(results: list[dict[str, str]]) -> None:
-    if not results:
-        return
+def source_ingest_config(strict: bool = True) -> tuple[str, str] | None:
     url = os.environ.get("SATTAKING_INGEST_URL", "").strip()
     secret = os.environ.get("SATTAKING_INGEST_SECRET", "")
     if not url or len(secret) < 32:
-        raise SourceError("SattaKing ingest endpoint/secret is not configured")
+        if strict:
+            raise SourceError("SattaKing ingest endpoint/secret is not configured")
+        return None
     if not url.startswith("https://") or "supabase.co/functions/v1/hh-api/sattaking-ingest" not in url:
         raise SourceError("Unexpected SattaKing ingest endpoint")
-    payload = json.dumps({"results": results}, separators=(",", ":")).encode("utf-8")
+    return url, secret
+
+
+def fetch_source_checks(now: dt.datetime, games_by_id: dict[str, dict[str, Any]], routes: dict[str, str], strict: bool = True) -> set[tuple[str, str]]:
+    config = source_ingest_config(strict=strict)
+    if config is None:
+        return set()
+    url, secret = config
+    separator = "&" if "?" in url else "?"
     request = urllib.request.Request(
-        url,
-        data=payload,
-        method="POST",
-        headers={
-            "Content-Type": "application/json",
-            "x-sattaking-ingest": secret,
-            "User-Agent": USER_AGENT,
-        },
+        url + separator + "op=source-checks",
+        method="GET",
+        headers={"x-sattaking-ingest": secret, "User-Agent": USER_AGENT, "Accept": "application/json"},
     )
     try:
         with urllib.request.urlopen(request, timeout=30) as response:
-            reply = json.loads(response.read(256_000).decode("utf-8"))
+            if response.status != 200:
+                raise SourceError(f"Source-check endpoint returned HTTP {response.status}")
+            body = response.read(256_001)
+        if len(body) > 256_000:
+            raise SourceError("Source-check response exceeded the size limit")
+        payload = json.loads(body.decode("utf-8"))
     except urllib.error.HTTPError as exc:
-        raise SourceError(f"Ingest endpoint rejected the batch (HTTP {exc.code})") from exc
+        raise SourceError(f"Source-check endpoint rejected the request (HTTP {exc.code})") from exc
     except (urllib.error.URLError, TimeoutError, json.JSONDecodeError) as exc:
-        raise SourceError(f"Ingest endpoint failed: {type(exc).__name__}") from exc
-    if not isinstance(reply, dict) or reply.get("ok") is not True:
-        raise SourceError("Ingest endpoint did not confirm the result batch")
+        raise SourceError(f"Source-check endpoint failed: {type(exc).__name__}") from exc
+    return parse_source_checks(payload, games_by_id, routes, now)
+
+
+def upsert_forced_check(indexed: dict[tuple[str, str], str], game_id: str, date: str, incoming: str | None) -> tuple[bool, bool]:
+    """An explicit per-date SattaKing selection may refresh its un-settled source value."""
+    if incoming is not None and re.fullmatch(r"\d{2}", incoming):
+        key = (game_id, date)
+        old = indexed.get(key)
+        indexed[key] = incoming
+        return old != incoming, True
+    return upsert_cell(indexed, game_id, date, incoming, allow_correction=False)
+
+
+def call_ingest(results: list[dict[str, str]]) -> None:
+    if not results:
+        return
+    config = source_ingest_config(strict=True)
+    assert config is not None
+    url, secret = config
+    for start in range(0, len(results), 120):
+        payload = json.dumps({"results": results[start:start + 120]}, separators=(",", ":")).encode("utf-8")
+        request = urllib.request.Request(
+            url,
+            data=payload,
+            method="POST",
+            headers={
+                "Content-Type": "application/json",
+                "x-sattaking-ingest": secret,
+                "User-Agent": USER_AGENT,
+            },
+        )
+        try:
+            with urllib.request.urlopen(request, timeout=30) as response:
+                reply = json.loads(response.read(256_000).decode("utf-8"))
+        except urllib.error.HTTPError as exc:
+            raise SourceError(f"Ingest endpoint rejected a batch (HTTP {exc.code})") from exc
+        except (urllib.error.URLError, TimeoutError, json.JSONDecodeError) as exc:
+            raise SourceError(f"Ingest endpoint failed: {type(exc).__name__}") from exc
+        if not isinstance(reply, dict) or reply.get("ok") is not True:
+            raise SourceError("Ingest endpoint did not confirm the result batch")
 
 
 def main() -> int:
@@ -384,6 +470,11 @@ def main() -> int:
     original = dict(indexed)
     ingest: dict[tuple[str, str], dict[str, str]] = {}
     warnings: list[str] = []
+    try:
+        forced_checks = fetch_source_checks(now, game_by_id, routes, strict=not args.dry_run)
+    except SourceError as exc:
+        forced_checks = set()
+        warnings.append(f"Selected-date source-check queue unavailable: {exc}")
 
     # The source landing page contains today's/yesterday's values for 118 games.
     # It is used only for those two dates; older verified values are not examined.
@@ -421,7 +512,8 @@ def main() -> int:
     # same-month today/yesterday correction fallback when the homepage has no numeric
     # value for an already-verified cell. Older verified values are never re-read.
     chart_jobs = plan_chart_jobs(
-        games, indexed, month_key, today, now, recent_dates, home_values, homepage_valid
+        games, indexed, month_key, today, now, recent_dates, home_values, homepage_valid,
+        forced_checks=forced_checks
     )
 
     def fetch_game_chart(game_id: str) -> tuple[str, dict[str, str | None]]:
@@ -448,27 +540,35 @@ def main() -> int:
         for date_text in sorted(pending_dates):
             incoming = values.get(date_text)
             key = (game_id, date_text)
-            allow_correction = chart_correction_allowed(indexed.get(key), date_text, recent_dates)
-            changed, numeric = upsert_cell(indexed, game_id, date_text, incoming, allow_correction=allow_correction)
+            if key in forced_checks:
+                changed, numeric = upsert_forced_check(indexed, game_id, date_text, incoming)
+            else:
+                allow_correction = chart_correction_allowed(indexed.get(key), date_text, recent_dates)
+                changed, numeric = upsert_cell(indexed, game_id, date_text, incoming, allow_correction=allow_correction)
             if numeric:
                 ingest[key] = {"game_id": game_id, "date": date_text, "value": indexed[key]}
 
     changed_keys = {key for key in set(original) | set(indexed) if original.get(key) != indexed.get(key)}
-    if not changed_keys:
-        print(f"No archive changes. Checked {len(chart_jobs)} due unresolved game charts; recent values limited to {sorted(d.isoformat() for d in recent_dates)}.")
+    if not changed_keys and not ingest:
+        print(f"No archive changes. Checked {len(chart_jobs)} due unresolved/selected-date charts; recent values limited to {sorted(d.isoformat() for d in recent_dates)}.")
         for warning in warnings:
             print(f"::warning::{warning}")
         return 0
 
     if args.dry_run:
-        print(f"Dry run: {len(changed_keys)} archive cell(s) would change; {len(ingest)} numeric result(s) would be submitted; {len(chart_jobs)} unresolved/recent charts checked.")
+        print(f"Dry run: {len(changed_keys)} archive cell(s) would change; {len(ingest)} numeric result(s) would be submitted; {len(chart_jobs)} unresolved/selected-date charts checked.")
         for warning in warnings:
             print(f"::warning::{warning}")
         return 0
 
-    # Ingest numeric results first. If Supabase rejects the batch, don't persist a newer
+    # Ingest numeric results first. If Supabase rejects a batch, don't persist a newer
     # public archive that could hide the result from a retry on the next scheduled run.
     call_ingest(list(ingest.values()))
+    if not changed_keys:
+        print(f"No archive cells changed; submitted {len(ingest)} verified result(s) for selected-date source checks.")
+        for warning in warnings:
+            print(f"::warning::{warning}")
+        return 0
 
     order = {gid: i for i, gid in enumerate(game_by_id)}
     month_data["results"] = [

@@ -3,13 +3,16 @@ import unittest
 
 from scripts.update_sattaking import (
     IST,
+    SourceError,
     chart_correction_allowed,
     find_chart_target_column,
     normalize_cell,
     parse_homepage,
     parse_month_values,
+    parse_source_checks,
     plan_chart_jobs,
     upsert_cell,
+    upsert_forced_check,
 )
 
 
@@ -122,6 +125,47 @@ class SattaKingUpdaterTests(unittest.TestCase):
         home = {("gali", today): "31", ("gali", yesterday): "30"}
         self.assertEqual(plan_chart_jobs([game], indexed, "2026-10", today, now, {today, yesterday}, home, True), {})
         self.assertEqual(plan_chart_jobs([game], indexed, "2026-10", today, now, {today, yesterday}, {}, False), {})
+
+    def test_explicit_source_check_forces_chart_for_numeric_current_month_cell(self):
+        today = dt.date(2026, 10, 5)
+        now = dt.datetime(2026, 10, 5, 12, 0, tzinfo=IST)
+        game = {"id": "gali", "resultTime": "10:00 AM"}
+        indexed = {("gali", f"2026-10-{day:02d}"): "11" for day in range(1, 6)}
+        jobs = plan_chart_jobs(
+            [game], indexed, "2026-10", today, now, {today, today-dt.timedelta(days=1)}, {}, False,
+            forced_checks={("gali", "2026-10-03")}
+        )
+        self.assertEqual(jobs, {"gali": {"2026-10-03"}})
+
+    def test_forced_source_check_refreshes_numeric_archive_cell(self):
+        indexed = {("gali", "2026-10-03"): "15"}
+        self.assertEqual(upsert_forced_check(indexed, "gali", "2026-10-03", "16"), (True, True))
+        self.assertEqual(indexed[("gali", "2026-10-03")], "16")
+        self.assertEqual(upsert_forced_check(indexed, "gali", "2026-10-03", "XX"), (False, False))
+        self.assertEqual(indexed[("gali", "2026-10-03")], "16")
+
+    def test_source_check_queue_is_limited_to_mapped_due_current_month_dates(self):
+        now = dt.datetime(2026, 10, 5, 12, 0, tzinfo=IST)
+        game = {"id": "gali", "resultTime": "10:00 AM"}
+        games = {"gali": game}
+        routes = {"gali": "https://satta-king-fast.com/gali/chart/"}
+        payload = {"ok": True, "checks": [
+            {"game_id": "gali", "date": "2026-10-04"},
+            {"game_id": "gali", "date": "2026-09-30"},
+            {"game_id": "gali", "date": "2026-10-06"},
+        ]}
+        self.assertEqual(parse_source_checks(payload, games, routes, now), {("gali", "2026-10-04")})
+        with self.assertRaisesRegex(SourceError, "unmapped game"):
+            parse_source_checks({"ok": True, "checks": [{"game_id": "unknown", "date": "2026-10-04"}]}, games, routes, now)
+
+    def test_source_check_for_today_is_ignored_until_draw_time(self):
+        now = dt.datetime(2026, 10, 5, 12, 0, tzinfo=IST)
+        game = {"id": "gali", "resultTime": "10:00 PM"}
+        checks = parse_source_checks(
+            {"ok": True, "checks": [{"game_id": "gali", "date": "2026-10-05"}]},
+            {"gali": game}, {"gali": "https://satta-king-fast.com/gali/chart/"}, now
+        )
+        self.assertEqual(checks, set())
 
 
 if __name__ == "__main__":
