@@ -2965,7 +2965,17 @@
     {
       "date": "2026-10-05",
       "gameId": "choti-gali",
-      "value": "XX"
+      "value": "10"
+    },
+    {
+      "date": "2026-10-06",
+      "gameId": "noida-king",
+      "value": "88"
+    },
+    {
+      "date": "2026-10-06",
+      "gameId": "bikaner-super",
+      "value": "24"
     }
   ]
 }
