@@ -1,0 +1,1656 @@
+{
+  "schemaVersion": 1,
+  "month": "2018-03",
+  "results": [
+    {
+      "date": "2018-03-01",
+      "gameId": "kalka-bazar",
+      "value": "39"
+    },
+    {
+      "date": "2018-03-01",
+      "gameId": "savera",
+      "value": "49"
+    },
+    {
+      "date": "2018-03-01",
+      "gameId": "mohali",
+      "value": "23"
+    },
+    {
+      "date": "2018-03-01",
+      "gameId": "maa-bhagwati",
+      "value": "61"
+    },
+    {
+      "date": "2018-03-01",
+      "gameId": "faridabad",
+      "value": "19"
+    },
+    {
+      "date": "2018-03-01",
+      "gameId": "paras",
+      "value": "99"
+    },
+    {
+      "date": "2018-03-01",
+      "gameId": "chandni-chowk-matka",
+      "value": "76"
+    },
+    {
+      "date": "2018-03-01",
+      "gameId": "new-ghaziabad",
+      "value": "69"
+    },
+    {
+      "date": "2018-03-01",
+      "gameId": "ghaziabad",
+      "value": "00"
+    },
+    {
+      "date": "2018-03-01",
+      "gameId": "gali",
+      "value": "44"
+    },
+    {
+      "date": "2018-03-02",
+      "gameId": "kalka-bazar",
+      "value": "31"
+    },
+    {
+      "date": "2018-03-02",
+      "gameId": "savera",
+      "value": "29"
+    },
+    {
+      "date": "2018-03-02",
+      "gameId": "mohali",
+      "value": "23"
+    },
+    {
+      "date": "2018-03-02",
+      "gameId": "maa-bhagwati",
+      "value": "70"
+    },
+    {
+      "date": "2018-03-02",
+      "gameId": "faridabad",
+      "value": "69"
+    },
+    {
+      "date": "2018-03-02",
+      "gameId": "paras",
+      "value": "49"
+    },
+    {
+      "date": "2018-03-02",
+      "gameId": "desawar",
+      "value": "71"
+    },
+    {
+      "date": "2018-03-02",
+      "gameId": "chandni-chowk-matka",
+      "value": "68"
+    },
+    {
+      "date": "2018-03-02",
+      "gameId": "new-ghaziabad",
+      "value": "72"
+    },
+    {
+      "date": "2018-03-02",
+      "gameId": "ghaziabad",
+      "value": "86"
+    },
+    {
+      "date": "2018-03-02",
+      "gameId": "gali",
+      "value": "12"
+    },
+    {
+      "date": "2018-03-03",
+      "gameId": "kalka-bazar",
+      "value": "31"
+    },
+    {
+      "date": "2018-03-03",
+      "gameId": "savera",
+      "value": "85"
+    },
+    {
+      "date": "2018-03-03",
+      "gameId": "mohali",
+      "value": "87"
+    },
+    {
+      "date": "2018-03-03",
+      "gameId": "maa-bhagwati",
+      "value": "03"
+    },
+    {
+      "date": "2018-03-03",
+      "gameId": "faridabad",
+      "value": "72"
+    },
+    {
+      "date": "2018-03-03",
+      "gameId": "paras",
+      "value": "45"
+    },
+    {
+      "date": "2018-03-03",
+      "gameId": "desawar",
+      "value": "70"
+    },
+    {
+      "date": "2018-03-03",
+      "gameId": "chandni-chowk-matka",
+      "value": "89"
+    },
+    {
+      "date": "2018-03-03",
+      "gameId": "new-ghaziabad",
+      "value": "15"
+    },
+    {
+      "date": "2018-03-03",
+      "gameId": "ghaziabad",
+      "value": "95"
+    },
+    {
+      "date": "2018-03-03",
+      "gameId": "gali",
+      "value": "66"
+    },
+    {
+      "date": "2018-03-04",
+      "gameId": "kalka-bazar",
+      "value": "78"
+    },
+    {
+      "date": "2018-03-04",
+      "gameId": "savera",
+      "value": "25"
+    },
+    {
+      "date": "2018-03-04",
+      "gameId": "mohali",
+      "value": "56"
+    },
+    {
+      "date": "2018-03-04",
+      "gameId": "maa-bhagwati",
+      "value": "86"
+    },
+    {
+      "date": "2018-03-04",
+      "gameId": "faridabad",
+      "value": "15"
+    },
+    {
+      "date": "2018-03-04",
+      "gameId": "paras",
+      "value": "88"
+    },
+    {
+      "date": "2018-03-04",
+      "gameId": "desawar",
+      "value": "93"
+    },
+    {
+      "date": "2018-03-04",
+      "gameId": "chandni-chowk-matka",
+      "value": "95"
+    },
+    {
+      "date": "2018-03-04",
+      "gameId": "new-ghaziabad",
+      "value": "42"
+    },
+    {
+      "date": "2018-03-04",
+      "gameId": "ghaziabad",
+      "value": "56"
+    },
+    {
+      "date": "2018-03-04",
+      "gameId": "gali",
+      "value": "59"
+    },
+    {
+      "date": "2018-03-05",
+      "gameId": "kalka-bazar",
+      "value": "70"
+    },
+    {
+      "date": "2018-03-05",
+      "gameId": "savera",
+      "value": "67"
+    },
+    {
+      "date": "2018-03-05",
+      "gameId": "mohali",
+      "value": "43"
+    },
+    {
+      "date": "2018-03-05",
+      "gameId": "maa-bhagwati",
+      "value": "00"
+    },
+    {
+      "date": "2018-03-05",
+      "gameId": "faridabad",
+      "value": "42"
+    },
+    {
+      "date": "2018-03-05",
+      "gameId": "paras",
+      "value": "25"
+    },
+    {
+      "date": "2018-03-05",
+      "gameId": "desawar",
+      "value": "89"
+    },
+    {
+      "date": "2018-03-05",
+      "gameId": "chandni-chowk-matka",
+      "value": "14"
+    },
+    {
+      "date": "2018-03-05",
+      "gameId": "new-ghaziabad",
+      "value": "36"
+    },
+    {
+      "date": "2018-03-05",
+      "gameId": "ghaziabad",
+      "value": "11"
+    },
+    {
+      "date": "2018-03-05",
+      "gameId": "gali",
+      "value": "99"
+    },
+    {
+      "date": "2018-03-06",
+      "gameId": "kalka-bazar",
+      "value": "07"
+    },
+    {
+      "date": "2018-03-06",
+      "gameId": "savera",
+      "value": "56"
+    },
+    {
+      "date": "2018-03-06",
+      "gameId": "mohali",
+      "value": "56"
+    },
+    {
+      "date": "2018-03-06",
+      "gameId": "maa-bhagwati",
+      "value": "97"
+    },
+    {
+      "date": "2018-03-06",
+      "gameId": "faridabad",
+      "value": "36"
+    },
+    {
+      "date": "2018-03-06",
+      "gameId": "paras",
+      "value": "77"
+    },
+    {
+      "date": "2018-03-06",
+      "gameId": "desawar",
+      "value": "84"
+    },
+    {
+      "date": "2018-03-06",
+      "gameId": "chandni-chowk-matka",
+      "value": "48"
+    },
+    {
+      "date": "2018-03-06",
+      "gameId": "new-ghaziabad",
+      "value": "76"
+    },
+    {
+      "date": "2018-03-06",
+      "gameId": "ghaziabad",
+      "value": "35"
+    },
+    {
+      "date": "2018-03-06",
+      "gameId": "gali",
+      "value": "27"
+    },
+    {
+      "date": "2018-03-07",
+      "gameId": "kalka-bazar",
+      "value": "18"
+    },
+    {
+      "date": "2018-03-07",
+      "gameId": "savera",
+      "value": "53"
+    },
+    {
+      "date": "2018-03-07",
+      "gameId": "mohali",
+      "value": "09"
+    },
+    {
+      "date": "2018-03-07",
+      "gameId": "maa-bhagwati",
+      "value": "53"
+    },
+    {
+      "date": "2018-03-07",
+      "gameId": "faridabad",
+      "value": "76"
+    },
+    {
+      "date": "2018-03-07",
+      "gameId": "paras",
+      "value": "36"
+    },
+    {
+      "date": "2018-03-07",
+      "gameId": "desawar",
+      "value": "76"
+    },
+    {
+      "date": "2018-03-07",
+      "gameId": "chandni-chowk-matka",
+      "value": "75"
+    },
+    {
+      "date": "2018-03-07",
+      "gameId": "new-ghaziabad",
+      "value": "87"
+    },
+    {
+      "date": "2018-03-07",
+      "gameId": "ghaziabad",
+      "value": "15"
+    },
+    {
+      "date": "2018-03-07",
+      "gameId": "gali",
+      "value": "82"
+    },
+    {
+      "date": "2018-03-08",
+      "gameId": "kalka-bazar",
+      "value": "47"
+    },
+    {
+      "date": "2018-03-08",
+      "gameId": "savera",
+      "value": "21"
+    },
+    {
+      "date": "2018-03-08",
+      "gameId": "mohali",
+      "value": "56"
+    },
+    {
+      "date": "2018-03-08",
+      "gameId": "maa-bhagwati",
+      "value": "90"
+    },
+    {
+      "date": "2018-03-08",
+      "gameId": "faridabad",
+      "value": "87"
+    },
+    {
+      "date": "2018-03-08",
+      "gameId": "paras",
+      "value": "97"
+    },
+    {
+      "date": "2018-03-08",
+      "gameId": "desawar",
+      "value": "44"
+    },
+    {
+      "date": "2018-03-08",
+      "gameId": "chandni-chowk-matka",
+      "value": "45"
+    },
+    {
+      "date": "2018-03-08",
+      "gameId": "new-ghaziabad",
+      "value": "30"
+    },
+    {
+      "date": "2018-03-08",
+      "gameId": "ghaziabad",
+      "value": "00"
+    },
+    {
+      "date": "2018-03-08",
+      "gameId": "gali",
+      "value": "72"
+    },
+    {
+      "date": "2018-03-09",
+      "gameId": "kalka-bazar",
+      "value": "44"
+    },
+    {
+      "date": "2018-03-09",
+      "gameId": "savera",
+      "value": "15"
+    },
+    {
+      "date": "2018-03-09",
+      "gameId": "mohali",
+      "value": "86"
+    },
+    {
+      "date": "2018-03-09",
+      "gameId": "maa-bhagwati",
+      "value": "22"
+    },
+    {
+      "date": "2018-03-09",
+      "gameId": "faridabad",
+      "value": "30"
+    },
+    {
+      "date": "2018-03-09",
+      "gameId": "paras",
+      "value": "72"
+    },
+    {
+      "date": "2018-03-09",
+      "gameId": "desawar",
+      "value": "98"
+    },
+    {
+      "date": "2018-03-09",
+      "gameId": "chandni-chowk-matka",
+      "value": "94"
+    },
+    {
+      "date": "2018-03-09",
+      "gameId": "new-ghaziabad",
+      "value": "57"
+    },
+    {
+      "date": "2018-03-09",
+      "gameId": "ghaziabad",
+      "value": "49"
+    },
+    {
+      "date": "2018-03-09",
+      "gameId": "gali",
+      "value": "75"
+    },
+    {
+      "date": "2018-03-10",
+      "gameId": "kalka-bazar",
+      "value": "22"
+    },
+    {
+      "date": "2018-03-10",
+      "gameId": "savera",
+      "value": "48"
+    },
+    {
+      "date": "2018-03-10",
+      "gameId": "mohali",
+      "value": "67"
+    },
+    {
+      "date": "2018-03-10",
+      "gameId": "maa-bhagwati",
+      "value": "56"
+    },
+    {
+      "date": "2018-03-10",
+      "gameId": "faridabad",
+      "value": "57"
+    },
+    {
+      "date": "2018-03-10",
+      "gameId": "paras",
+      "value": "62"
+    },
+    {
+      "date": "2018-03-10",
+      "gameId": "desawar",
+      "value": "49"
+    },
+    {
+      "date": "2018-03-10",
+      "gameId": "chandni-chowk-matka",
+      "value": "58"
+    },
+    {
+      "date": "2018-03-10",
+      "gameId": "new-ghaziabad",
+      "value": "18"
+    },
+    {
+      "date": "2018-03-10",
+      "gameId": "ghaziabad",
+      "value": "87"
+    },
+    {
+      "date": "2018-03-10",
+      "gameId": "gali",
+      "value": "27"
+    },
+    {
+      "date": "2018-03-11",
+      "gameId": "kalka-bazar",
+      "value": "97"
+    },
+    {
+      "date": "2018-03-11",
+      "gameId": "savera",
+      "value": "40"
+    },
+    {
+      "date": "2018-03-11",
+      "gameId": "mohali",
+      "value": "37"
+    },
+    {
+      "date": "2018-03-11",
+      "gameId": "maa-bhagwati",
+      "value": "48"
+    },
+    {
+      "date": "2018-03-11",
+      "gameId": "faridabad",
+      "value": "18"
+    },
+    {
+      "date": "2018-03-11",
+      "gameId": "paras",
+      "value": "44"
+    },
+    {
+      "date": "2018-03-11",
+      "gameId": "desawar",
+      "value": "40"
+    },
+    {
+      "date": "2018-03-11",
+      "gameId": "chandni-chowk-matka",
+      "value": "43"
+    },
+    {
+      "date": "2018-03-11",
+      "gameId": "new-ghaziabad",
+      "value": "48"
+    },
+    {
+      "date": "2018-03-11",
+      "gameId": "ghaziabad",
+      "value": "53"
+    },
+    {
+      "date": "2018-03-11",
+      "gameId": "gali",
+      "value": "17"
+    },
+    {
+      "date": "2018-03-12",
+      "gameId": "kalka-bazar",
+      "value": "56"
+    },
+    {
+      "date": "2018-03-12",
+      "gameId": "savera",
+      "value": "56"
+    },
+    {
+      "date": "2018-03-12",
+      "gameId": "mohali",
+      "value": "12"
+    },
+    {
+      "date": "2018-03-12",
+      "gameId": "maa-bhagwati",
+      "value": "25"
+    },
+    {
+      "date": "2018-03-12",
+      "gameId": "faridabad",
+      "value": "48"
+    },
+    {
+      "date": "2018-03-12",
+      "gameId": "paras",
+      "value": "62"
+    },
+    {
+      "date": "2018-03-12",
+      "gameId": "desawar",
+      "value": "92"
+    },
+    {
+      "date": "2018-03-12",
+      "gameId": "chandni-chowk-matka",
+      "value": "28"
+    },
+    {
+      "date": "2018-03-12",
+      "gameId": "new-ghaziabad",
+      "value": "79"
+    },
+    {
+      "date": "2018-03-12",
+      "gameId": "ghaziabad",
+      "value": "27"
+    },
+    {
+      "date": "2018-03-12",
+      "gameId": "gali",
+      "value": "87"
+    },
+    {
+      "date": "2018-03-13",
+      "gameId": "kalka-bazar",
+      "value": "61"
+    },
+    {
+      "date": "2018-03-13",
+      "gameId": "savera",
+      "value": "42"
+    },
+    {
+      "date": "2018-03-13",
+      "gameId": "mohali",
+      "value": "64"
+    },
+    {
+      "date": "2018-03-13",
+      "gameId": "maa-bhagwati",
+      "value": "56"
+    },
+    {
+      "date": "2018-03-13",
+      "gameId": "faridabad",
+      "value": "79"
+    },
+    {
+      "date": "2018-03-13",
+      "gameId": "paras",
+      "value": "82"
+    },
+    {
+      "date": "2018-03-13",
+      "gameId": "desawar",
+      "value": "27"
+    },
+    {
+      "date": "2018-03-13",
+      "gameId": "chandni-chowk-matka",
+      "value": "09"
+    },
+    {
+      "date": "2018-03-13",
+      "gameId": "new-ghaziabad",
+      "value": "35"
+    },
+    {
+      "date": "2018-03-13",
+      "gameId": "ghaziabad",
+      "value": "45"
+    },
+    {
+      "date": "2018-03-13",
+      "gameId": "gali",
+      "value": "23"
+    },
+    {
+      "date": "2018-03-14",
+      "gameId": "kalka-bazar",
+      "value": "29"
+    },
+    {
+      "date": "2018-03-14",
+      "gameId": "savera",
+      "value": "04"
+    },
+    {
+      "date": "2018-03-14",
+      "gameId": "mohali",
+      "value": "12"
+    },
+    {
+      "date": "2018-03-14",
+      "gameId": "maa-bhagwati",
+      "value": "24"
+    },
+    {
+      "date": "2018-03-14",
+      "gameId": "faridabad",
+      "value": "35"
+    },
+    {
+      "date": "2018-03-14",
+      "gameId": "paras",
+      "value": "25"
+    },
+    {
+      "date": "2018-03-14",
+      "gameId": "desawar",
+      "value": "07"
+    },
+    {
+      "date": "2018-03-14",
+      "gameId": "chandni-chowk-matka",
+      "value": "09"
+    },
+    {
+      "date": "2018-03-14",
+      "gameId": "new-ghaziabad",
+      "value": "71"
+    },
+    {
+      "date": "2018-03-14",
+      "gameId": "ghaziabad",
+      "value": "97"
+    },
+    {
+      "date": "2018-03-14",
+      "gameId": "gali",
+      "value": "17"
+    },
+    {
+      "date": "2018-03-15",
+      "gameId": "kalka-bazar",
+      "value": "28"
+    },
+    {
+      "date": "2018-03-15",
+      "gameId": "savera",
+      "value": "71"
+    },
+    {
+      "date": "2018-03-15",
+      "gameId": "mohali",
+      "value": "12"
+    },
+    {
+      "date": "2018-03-15",
+      "gameId": "maa-bhagwati",
+      "value": "96"
+    },
+    {
+      "date": "2018-03-15",
+      "gameId": "faridabad",
+      "value": "71"
+    },
+    {
+      "date": "2018-03-15",
+      "gameId": "paras",
+      "value": "37"
+    },
+    {
+      "date": "2018-03-15",
+      "gameId": "desawar",
+      "value": "03"
+    },
+    {
+      "date": "2018-03-15",
+      "gameId": "chandni-chowk-matka",
+      "value": "03"
+    },
+    {
+      "date": "2018-03-15",
+      "gameId": "new-ghaziabad",
+      "value": "95"
+    },
+    {
+      "date": "2018-03-15",
+      "gameId": "ghaziabad",
+      "value": "18"
+    },
+    {
+      "date": "2018-03-15",
+      "gameId": "gali",
+      "value": "47"
+    },
+    {
+      "date": "2018-03-16",
+      "gameId": "kalka-bazar",
+      "value": "86"
+    },
+    {
+      "date": "2018-03-16",
+      "gameId": "savera",
+      "value": "52"
+    },
+    {
+      "date": "2018-03-16",
+      "gameId": "mohali",
+      "value": "96"
+    },
+    {
+      "date": "2018-03-16",
+      "gameId": "maa-bhagwati",
+      "value": "51"
+    },
+    {
+      "date": "2018-03-16",
+      "gameId": "faridabad",
+      "value": "95"
+    },
+    {
+      "date": "2018-03-16",
+      "gameId": "paras",
+      "value": "47"
+    },
+    {
+      "date": "2018-03-16",
+      "gameId": "desawar",
+      "value": "96"
+    },
+    {
+      "date": "2018-03-16",
+      "gameId": "chandni-chowk-matka",
+      "value": "33"
+    },
+    {
+      "date": "2018-03-16",
+      "gameId": "new-ghaziabad",
+      "value": "18"
+    },
+    {
+      "date": "2018-03-16",
+      "gameId": "ghaziabad",
+      "value": "83"
+    },
+    {
+      "date": "2018-03-16",
+      "gameId": "gali",
+      "value": "00"
+    },
+    {
+      "date": "2018-03-17",
+      "gameId": "kalka-bazar",
+      "value": "31"
+    },
+    {
+      "date": "2018-03-17",
+      "gameId": "savera",
+      "value": "18"
+    },
+    {
+      "date": "2018-03-17",
+      "gameId": "mohali",
+      "value": "54"
+    },
+    {
+      "date": "2018-03-17",
+      "gameId": "maa-bhagwati",
+      "value": "56"
+    },
+    {
+      "date": "2018-03-17",
+      "gameId": "faridabad",
+      "value": "18"
+    },
+    {
+      "date": "2018-03-17",
+      "gameId": "paras",
+      "value": "00"
+    },
+    {
+      "date": "2018-03-17",
+      "gameId": "desawar",
+      "value": "43"
+    },
+    {
+      "date": "2018-03-17",
+      "gameId": "chandni-chowk-matka",
+      "value": "83"
+    },
+    {
+      "date": "2018-03-17",
+      "gameId": "new-ghaziabad",
+      "value": "86"
+    },
+    {
+      "date": "2018-03-17",
+      "gameId": "ghaziabad",
+      "value": "83"
+    },
+    {
+      "date": "2018-03-17",
+      "gameId": "gali",
+      "value": "93"
+    },
+    {
+      "date": "2018-03-18",
+      "gameId": "kalka-bazar",
+      "value": "51"
+    },
+    {
+      "date": "2018-03-18",
+      "gameId": "savera",
+      "value": "59"
+    },
+    {
+      "date": "2018-03-18",
+      "gameId": "mohali",
+      "value": "59"
+    },
+    {
+      "date": "2018-03-18",
+      "gameId": "maa-bhagwati",
+      "value": "26"
+    },
+    {
+      "date": "2018-03-18",
+      "gameId": "faridabad",
+      "value": "86"
+    },
+    {
+      "date": "2018-03-18",
+      "gameId": "paras",
+      "value": "59"
+    },
+    {
+      "date": "2018-03-18",
+      "gameId": "desawar",
+      "value": "24"
+    },
+    {
+      "date": "2018-03-18",
+      "gameId": "chandni-chowk-matka",
+      "value": "46"
+    },
+    {
+      "date": "2018-03-18",
+      "gameId": "new-ghaziabad",
+      "value": "12"
+    },
+    {
+      "date": "2018-03-18",
+      "gameId": "ghaziabad",
+      "value": "25"
+    },
+    {
+      "date": "2018-03-18",
+      "gameId": "gali",
+      "value": "81"
+    },
+    {
+      "date": "2018-03-19",
+      "gameId": "kalka-bazar",
+      "value": "08"
+    },
+    {
+      "date": "2018-03-19",
+      "gameId": "savera",
+      "value": "96"
+    },
+    {
+      "date": "2018-03-19",
+      "gameId": "mohali",
+      "value": "67"
+    },
+    {
+      "date": "2018-03-19",
+      "gameId": "maa-bhagwati",
+      "value": "60"
+    },
+    {
+      "date": "2018-03-19",
+      "gameId": "faridabad",
+      "value": "12"
+    },
+    {
+      "date": "2018-03-19",
+      "gameId": "paras",
+      "value": "00"
+    },
+    {
+      "date": "2018-03-19",
+      "gameId": "desawar",
+      "value": "47"
+    },
+    {
+      "date": "2018-03-19",
+      "gameId": "chandni-chowk-matka",
+      "value": "04"
+    },
+    {
+      "date": "2018-03-19",
+      "gameId": "new-ghaziabad",
+      "value": "31"
+    },
+    {
+      "date": "2018-03-19",
+      "gameId": "ghaziabad",
+      "value": "16"
+    },
+    {
+      "date": "2018-03-19",
+      "gameId": "gali",
+      "value": "02"
+    },
+    {
+      "date": "2018-03-20",
+      "gameId": "kalka-bazar",
+      "value": "23"
+    },
+    {
+      "date": "2018-03-20",
+      "gameId": "savera",
+      "value": "01"
+    },
+    {
+      "date": "2018-03-20",
+      "gameId": "mohali",
+      "value": "93"
+    },
+    {
+      "date": "2018-03-20",
+      "gameId": "maa-bhagwati",
+      "value": "01"
+    },
+    {
+      "date": "2018-03-20",
+      "gameId": "faridabad",
+      "value": "31"
+    },
+    {
+      "date": "2018-03-20",
+      "gameId": "paras",
+      "value": "54"
+    },
+    {
+      "date": "2018-03-20",
+      "gameId": "desawar",
+      "value": "18"
+    },
+    {
+      "date": "2018-03-20",
+      "gameId": "chandni-chowk-matka",
+      "value": "13"
+    },
+    {
+      "date": "2018-03-20",
+      "gameId": "new-ghaziabad",
+      "value": "94"
+    },
+    {
+      "date": "2018-03-20",
+      "gameId": "ghaziabad",
+      "value": "54"
+    },
+    {
+      "date": "2018-03-20",
+      "gameId": "gali",
+      "value": "51"
+    },
+    {
+      "date": "2018-03-21",
+      "gameId": "kalka-bazar",
+      "value": "29"
+    },
+    {
+      "date": "2018-03-21",
+      "gameId": "savera",
+      "value": "18"
+    },
+    {
+      "date": "2018-03-21",
+      "gameId": "mohali",
+      "value": "84"
+    },
+    {
+      "date": "2018-03-21",
+      "gameId": "maa-bhagwati",
+      "value": "33"
+    },
+    {
+      "date": "2018-03-21",
+      "gameId": "faridabad",
+      "value": "94"
+    },
+    {
+      "date": "2018-03-21",
+      "gameId": "paras",
+      "value": "03"
+    },
+    {
+      "date": "2018-03-21",
+      "gameId": "desawar",
+      "value": "17"
+    },
+    {
+      "date": "2018-03-21",
+      "gameId": "chandni-chowk-matka",
+      "value": "74"
+    },
+    {
+      "date": "2018-03-21",
+      "gameId": "new-ghaziabad",
+      "value": "62"
+    },
+    {
+      "date": "2018-03-21",
+      "gameId": "ghaziabad",
+      "value": "66"
+    },
+    {
+      "date": "2018-03-21",
+      "gameId": "gali",
+      "value": "89"
+    },
+    {
+      "date": "2018-03-22",
+      "gameId": "kalka-bazar",
+      "value": "19"
+    },
+    {
+      "date": "2018-03-22",
+      "gameId": "savera",
+      "value": "13"
+    },
+    {
+      "date": "2018-03-22",
+      "gameId": "mohali",
+      "value": "64"
+    },
+    {
+      "date": "2018-03-22",
+      "gameId": "maa-bhagwati",
+      "value": "14"
+    },
+    {
+      "date": "2018-03-22",
+      "gameId": "faridabad",
+      "value": "62"
+    },
+    {
+      "date": "2018-03-22",
+      "gameId": "paras",
+      "value": "60"
+    },
+    {
+      "date": "2018-03-22",
+      "gameId": "desawar",
+      "value": "72"
+    },
+    {
+      "date": "2018-03-22",
+      "gameId": "chandni-chowk-matka",
+      "value": "62"
+    },
+    {
+      "date": "2018-03-22",
+      "gameId": "new-ghaziabad",
+      "value": "54"
+    },
+    {
+      "date": "2018-03-22",
+      "gameId": "ghaziabad",
+      "value": "51"
+    },
+    {
+      "date": "2018-03-22",
+      "gameId": "gali",
+      "value": "50"
+    },
+    {
+      "date": "2018-03-23",
+      "gameId": "kalka-bazar",
+      "value": "09"
+    },
+    {
+      "date": "2018-03-23",
+      "gameId": "savera",
+      "value": "49"
+    },
+    {
+      "date": "2018-03-23",
+      "gameId": "mohali",
+      "value": "74"
+    },
+    {
+      "date": "2018-03-23",
+      "gameId": "maa-bhagwati",
+      "value": "61"
+    },
+    {
+      "date": "2018-03-23",
+      "gameId": "faridabad",
+      "value": "54"
+    },
+    {
+      "date": "2018-03-23",
+      "gameId": "paras",
+      "value": "01"
+    },
+    {
+      "date": "2018-03-23",
+      "gameId": "desawar",
+      "value": "33"
+    },
+    {
+      "date": "2018-03-23",
+      "gameId": "chandni-chowk-matka",
+      "value": "34"
+    },
+    {
+      "date": "2018-03-23",
+      "gameId": "new-ghaziabad",
+      "value": "52"
+    },
+    {
+      "date": "2018-03-23",
+      "gameId": "ghaziabad",
+      "value": "54"
+    },
+    {
+      "date": "2018-03-23",
+      "gameId": "gali",
+      "value": "80"
+    },
+    {
+      "date": "2018-03-24",
+      "gameId": "kalka-bazar",
+      "value": "31"
+    },
+    {
+      "date": "2018-03-24",
+      "gameId": "savera",
+      "value": "18"
+    },
+    {
+      "date": "2018-03-24",
+      "gameId": "mohali",
+      "value": "46"
+    },
+    {
+      "date": "2018-03-24",
+      "gameId": "maa-bhagwati",
+      "value": "41"
+    },
+    {
+      "date": "2018-03-24",
+      "gameId": "faridabad",
+      "value": "52"
+    },
+    {
+      "date": "2018-03-24",
+      "gameId": "paras",
+      "value": "63"
+    },
+    {
+      "date": "2018-03-24",
+      "gameId": "desawar",
+      "value": "59"
+    },
+    {
+      "date": "2018-03-24",
+      "gameId": "chandni-chowk-matka",
+      "value": "55"
+    },
+    {
+      "date": "2018-03-24",
+      "gameId": "new-ghaziabad",
+      "value": "51"
+    },
+    {
+      "date": "2018-03-24",
+      "gameId": "ghaziabad",
+      "value": "71"
+    },
+    {
+      "date": "2018-03-24",
+      "gameId": "gali",
+      "value": "15"
+    },
+    {
+      "date": "2018-03-25",
+      "gameId": "kalka-bazar",
+      "value": "05"
+    },
+    {
+      "date": "2018-03-25",
+      "gameId": "savera",
+      "value": "79"
+    },
+    {
+      "date": "2018-03-25",
+      "gameId": "mohali",
+      "value": "83"
+    },
+    {
+      "date": "2018-03-25",
+      "gameId": "maa-bhagwati",
+      "value": "08"
+    },
+    {
+      "date": "2018-03-25",
+      "gameId": "faridabad",
+      "value": "51"
+    },
+    {
+      "date": "2018-03-25",
+      "gameId": "paras",
+      "value": "74"
+    },
+    {
+      "date": "2018-03-25",
+      "gameId": "desawar",
+      "value": "67"
+    },
+    {
+      "date": "2018-03-25",
+      "gameId": "chandni-chowk-matka",
+      "value": "53"
+    },
+    {
+      "date": "2018-03-25",
+      "gameId": "new-ghaziabad",
+      "value": "47"
+    },
+    {
+      "date": "2018-03-25",
+      "gameId": "ghaziabad",
+      "value": "13"
+    },
+    {
+      "date": "2018-03-25",
+      "gameId": "gali",
+      "value": "77"
+    },
+    {
+      "date": "2018-03-26",
+      "gameId": "kalka-bazar",
+      "value": "44"
+    },
+    {
+      "date": "2018-03-26",
+      "gameId": "savera",
+      "value": "30"
+    },
+    {
+      "date": "2018-03-26",
+      "gameId": "mohali",
+      "value": "34"
+    },
+    {
+      "date": "2018-03-26",
+      "gameId": "maa-bhagwati",
+      "value": "03"
+    },
+    {
+      "date": "2018-03-26",
+      "gameId": "faridabad",
+      "value": "47"
+    },
+    {
+      "date": "2018-03-26",
+      "gameId": "paras",
+      "value": "00"
+    },
+    {
+      "date": "2018-03-26",
+      "gameId": "desawar",
+      "value": "56"
+    },
+    {
+      "date": "2018-03-26",
+      "gameId": "chandni-chowk-matka",
+      "value": "30"
+    },
+    {
+      "date": "2018-03-26",
+      "gameId": "new-ghaziabad",
+      "value": "70"
+    },
+    {
+      "date": "2018-03-26",
+      "gameId": "ghaziabad",
+      "value": "52"
+    },
+    {
+      "date": "2018-03-26",
+      "gameId": "gali",
+      "value": "22"
+    },
+    {
+      "date": "2018-03-27",
+      "gameId": "kalka-bazar",
+      "value": "73"
+    },
+    {
+      "date": "2018-03-27",
+      "gameId": "savera",
+      "value": "81"
+    },
+    {
+      "date": "2018-03-27",
+      "gameId": "mohali",
+      "value": "34"
+    },
+    {
+      "date": "2018-03-27",
+      "gameId": "maa-bhagwati",
+      "value": "15"
+    },
+    {
+      "date": "2018-03-27",
+      "gameId": "faridabad",
+      "value": "70"
+    },
+    {
+      "date": "2018-03-27",
+      "gameId": "paras",
+      "value": "29"
+    },
+    {
+      "date": "2018-03-27",
+      "gameId": "desawar",
+      "value": "15"
+    },
+    {
+      "date": "2018-03-27",
+      "gameId": "chandni-chowk-matka",
+      "value": "44"
+    },
+    {
+      "date": "2018-03-27",
+      "gameId": "new-ghaziabad",
+      "value": "70"
+    },
+    {
+      "date": "2018-03-27",
+      "gameId": "ghaziabad",
+      "value": "46"
+    },
+    {
+      "date": "2018-03-27",
+      "gameId": "gali",
+      "value": "35"
+    },
+    {
+      "date": "2018-03-28",
+      "gameId": "kalka-bazar",
+      "value": "33"
+    },
+    {
+      "date": "2018-03-28",
+      "gameId": "savera",
+      "value": "92"
+    },
+    {
+      "date": "2018-03-28",
+      "gameId": "mohali",
+      "value": "04"
+    },
+    {
+      "date": "2018-03-28",
+      "gameId": "maa-bhagwati",
+      "value": "57"
+    },
+    {
+      "date": "2018-03-28",
+      "gameId": "faridabad",
+      "value": "70"
+    },
+    {
+      "date": "2018-03-28",
+      "gameId": "paras",
+      "value": "61"
+    },
+    {
+      "date": "2018-03-28",
+      "gameId": "desawar",
+      "value": "59"
+    },
+    {
+      "date": "2018-03-28",
+      "gameId": "chandni-chowk-matka",
+      "value": "03"
+    },
+    {
+      "date": "2018-03-28",
+      "gameId": "new-ghaziabad",
+      "value": "19"
+    },
+    {
+      "date": "2018-03-28",
+      "gameId": "ghaziabad",
+      "value": "02"
+    },
+    {
+      "date": "2018-03-28",
+      "gameId": "gali",
+      "value": "06"
+    },
+    {
+      "date": "2018-03-29",
+      "gameId": "kalka-bazar",
+      "value": "43"
+    },
+    {
+      "date": "2018-03-29",
+      "gameId": "savera",
+      "value": "61"
+    },
+    {
+      "date": "2018-03-29",
+      "gameId": "mohali",
+      "value": "75"
+    },
+    {
+      "date": "2018-03-29",
+      "gameId": "maa-bhagwati",
+      "value": "27"
+    },
+    {
+      "date": "2018-03-29",
+      "gameId": "faridabad",
+      "value": "19"
+    },
+    {
+      "date": "2018-03-29",
+      "gameId": "paras",
+      "value": "60"
+    },
+    {
+      "date": "2018-03-29",
+      "gameId": "desawar",
+      "value": "36"
+    },
+    {
+      "date": "2018-03-29",
+      "gameId": "chandni-chowk-matka",
+      "value": "31"
+    },
+    {
+      "date": "2018-03-29",
+      "gameId": "new-ghaziabad",
+      "value": "58"
+    },
+    {
+      "date": "2018-03-29",
+      "gameId": "ghaziabad",
+      "value": "31"
+    },
+    {
+      "date": "2018-03-29",
+      "gameId": "gali",
+      "value": "81"
+    },
+    {
+      "date": "2018-03-30",
+      "gameId": "kalka-bazar",
+      "value": "04"
+    },
+    {
+      "date": "2018-03-30",
+      "gameId": "savera",
+      "value": "60"
+    },
+    {
+      "date": "2018-03-30",
+      "gameId": "mohali",
+      "value": "66"
+    },
+    {
+      "date": "2018-03-30",
+      "gameId": "maa-bhagwati",
+      "value": "33"
+    },
+    {
+      "date": "2018-03-30",
+      "gameId": "faridabad",
+      "value": "58"
+    },
+    {
+      "date": "2018-03-30",
+      "gameId": "paras",
+      "value": "26"
+    },
+    {
+      "date": "2018-03-30",
+      "gameId": "desawar",
+      "value": "49"
+    },
+    {
+      "date": "2018-03-30",
+      "gameId": "chandni-chowk-matka",
+      "value": "15"
+    },
+    {
+      "date": "2018-03-30",
+      "gameId": "ghaziabad",
+      "value": "10"
+    },
+    {
+      "date": "2018-03-30",
+      "gameId": "gali",
+      "value": "53"
+    },
+    {
+      "date": "2018-03-31",
+      "gameId": "desawar",
+      "value": "14"
+    },
+    {
+      "date": "2018-03-31",
+      "gameId": "new-ghaziabad",
+      "value": "60"
+    }
+  ]
+}

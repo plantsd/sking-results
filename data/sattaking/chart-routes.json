@@ -1,0 +1,487 @@
+{
+  "schemaVersion": 1,
+  "source": "SattaKing Fast",
+  "generatedAt": "2026-10-05T00:13:40+00:00",
+  "routes": [
+    {
+      "gameId": "jaipur-king",
+      "url": "https://satta-king-fast.com/jaipur-king/satta-result-chart/jr/"
+    },
+    {
+      "gameId": "matka-king",
+      "url": "https://satta-king-fast.com/matka-king/satta-result-chart/mt/"
+    },
+    {
+      "gameId": "jd-durga",
+      "url": "https://satta-king-fast.com/jd-durga/satta-result-chart/jd/"
+    },
+    {
+      "gameId": "burj-khalifa-bk",
+      "url": "https://satta-king-fast.com/burj-khalifa/satta-result-chart/bj/"
+    },
+    {
+      "gameId": "shree-ganga-nagar",
+      "url": "https://satta-king-fast.com/shree-ganga-nagar/satta-result-chart/eg/"
+    },
+    {
+      "gameId": "up-king",
+      "url": "https://satta-king-fast.com/up-king/satta-result-chart/ui/"
+    },
+    {
+      "gameId": "agra-bazar",
+      "url": "https://satta-king-fast.com/agra-bazar/satta-result-chart/az/"
+    },
+    {
+      "gameId": "rajdhani-jaipur",
+      "url": "https://satta-king-fast.com/rajdhani-jaipur/satta-result-chart/rj/"
+    },
+    {
+      "gameId": "bihar-king",
+      "url": "https://satta-king-fast.com/bihar-king/satta-result-chart/bk/"
+    },
+    {
+      "gameId": "janta-city",
+      "url": "https://satta-king-fast.com/janta-city/satta-result-chart/jc/"
+    },
+    {
+      "gameId": "mumbai-bazaar",
+      "url": "https://satta-king-fast.com/mumbai-bazaar/satta-result-chart/mu/"
+    },
+    {
+      "gameId": "ujala-super",
+      "url": "https://satta-king-fast.com/ujala-super/satta-result-chart/us/"
+    },
+    {
+      "gameId": "punjab-king",
+      "url": "https://satta-king-fast.com/punjab-king/satta-result-chart/pk/"
+    },
+    {
+      "gameId": "new-jaipur-king",
+      "url": "https://satta-king-fast.com/new-jaipur-king/satta-result-chart/nj/"
+    },
+    {
+      "gameId": "matka-sone-ka",
+      "url": "https://satta-king-fast.com/matka-sone-ka/satta-result-chart/mo/"
+    },
+    {
+      "gameId": "super-king",
+      "url": "https://satta-king-fast.com/super-king/satta-result-chart/su/"
+    },
+    {
+      "gameId": "royal-bazar",
+      "url": "https://satta-king-fast.com/royal-bazar/satta-result-chart/ro/"
+    },
+    {
+      "gameId": "gaj-kesri",
+      "url": "https://satta-king-fast.com/gaj-kesri/satta-result-chart/gj/"
+    },
+    {
+      "gameId": "kalka-bazar",
+      "url": "https://satta-king-fast.com/kalka-bazar/satta-result-chart/kb/"
+    },
+    {
+      "gameId": "savera",
+      "url": "https://satta-king-fast.com/savera/satta-result-chart/sv/"
+    },
+    {
+      "gameId": "super-delhi",
+      "url": "https://satta-king-fast.com/super-delhi/satta-result-chart/sp/"
+    },
+    {
+      "gameId": "delhi-6",
+      "url": "https://satta-king-fast.com/delhi-6/satta-result-chart/d6/"
+    },
+    {
+      "gameId": "delhi-city",
+      "url": "https://satta-king-fast.com/delhi-city/satta-result-chart/dc/"
+    },
+    {
+      "gameId": "deep-sagar",
+      "url": "https://satta-king-fast.com/deep-sagar/satta-result-chart/ee/"
+    },
+    {
+      "gameId": "delhi-dream",
+      "url": "https://satta-king-fast.com/delhi-dream/satta-result-chart/dz/"
+    },
+    {
+      "gameId": "super-taj",
+      "url": "https://satta-king-fast.com/super-taj/satta-result-chart/st/"
+    },
+    {
+      "gameId": "meerut-metro",
+      "url": "https://satta-king-fast.com/meerut-metro/satta-result-chart/me/"
+    },
+    {
+      "gameId": "mohali",
+      "url": "https://satta-king-fast.com/mohali/satta-result-chart/mh/"
+    },
+    {
+      "gameId": "delhi-bazar",
+      "url": "https://satta-king-fast.com/delhi-bazar/satta-result-chart/db/"
+    },
+    {
+      "gameId": "meerut-city",
+      "url": "https://satta-king-fast.com/meerut-city/satta-result-chart/mc/"
+    },
+    {
+      "gameId": "new-taj",
+      "url": "https://satta-king-fast.com/new-taj/satta-result-chart/nt/"
+    },
+    {
+      "gameId": "chennai",
+      "url": "https://satta-king-fast.com/chennai/satta-result-chart/cn/"
+    },
+    {
+      "gameId": "royal-challenge",
+      "url": "https://satta-king-fast.com/royal-challenge/satta-result-chart/rc/"
+    },
+    {
+      "gameId": "taj",
+      "url": "https://satta-king-fast.com/taj/satta-result-chart/tj/"
+    },
+    {
+      "gameId": "super-bazar",
+      "url": "https://satta-king-fast.com/super-bazar/satta-result-chart/sz/"
+    },
+    {
+      "gameId": "royal-king",
+      "url": "https://satta-king-fast.com/royal-king/satta-result-chart/ry/"
+    },
+    {
+      "gameId": "delhi-bazar-day",
+      "url": "https://satta-king-fast.com/delhi-bazar-day/satta-result-chart/dy/"
+    },
+    {
+      "gameId": "maa-bhagwati",
+      "url": "https://satta-king-fast.com/maa-bhagwati/satta-result-chart/mb/"
+    },
+    {
+      "gameId": "anarkali",
+      "url": "https://satta-king-fast.com/anarkali/satta-result-chart/ak/"
+    },
+    {
+      "gameId": "dubai-delhi",
+      "url": "https://satta-king-fast.com/dubai-delhi/satta-result-chart/da/"
+    },
+    {
+      "gameId": "chand-tara",
+      "url": "https://satta-king-fast.com/chand-tara/satta-result-chart/ct/"
+    },
+    {
+      "gameId": "udaan-king",
+      "url": "https://satta-king-fast.com/udaan-king/satta-result-chart/ud/"
+    },
+    {
+      "gameId": "super-savera",
+      "url": "https://satta-king-fast.com/super-savera/satta-result-chart/sa/"
+    },
+    {
+      "gameId": "shiv-shakti",
+      "url": "https://satta-king-fast.com/shiv-shakti/satta-result-chart/ss/"
+    },
+    {
+      "gameId": "shri-ganesh",
+      "url": "https://satta-king-fast.com/shri-ganesh/satta-result-chart/sg/"
+    },
+    {
+      "gameId": "ghaziabad-din",
+      "url": "https://satta-king-fast.com/ghaziabad-din/satta-result-chart/gd/"
+    },
+    {
+      "gameId": "shri-nagar",
+      "url": "https://satta-king-fast.com/shri-nagar/satta-result-chart/sn/"
+    },
+    {
+      "gameId": "vip-king",
+      "url": "https://satta-king-fast.com/vip-king/satta-result-chart/vk/"
+    },
+    {
+      "gameId": "ds-number-1",
+      "url": "https://satta-king-fast.com/ds-number-1/satta-result-chart/d1/"
+    },
+    {
+      "gameId": "mahalaxmi-bazar",
+      "url": "https://satta-king-fast.com/mahalaxmi-bazar/satta-result-chart/mx/"
+    },
+    {
+      "gameId": "ahmedabad",
+      "url": "https://satta-king-fast.com/ahmedabad/satta-result-chart/am/"
+    },
+    {
+      "gameId": "maharaj",
+      "url": "https://satta-king-fast.com/maharaj/satta-result-chart/mj/"
+    },
+    {
+      "gameId": "uttarakhand-uk",
+      "url": "https://satta-king-fast.com/uttarakhand-uk/satta-result-chart/uk/"
+    },
+    {
+      "gameId": "faridabad",
+      "url": "https://satta-king-fast.com/faridabad/satta-result-chart/fb/"
+    },
+    {
+      "gameId": "sadabahar",
+      "url": "https://satta-king-fast.com/sadabahar/satta-result-chart/sd/"
+    },
+    {
+      "gameId": "old-faridabad",
+      "url": "https://satta-king-fast.com/old-faridabad/satta-result-chart/of/"
+    },
+    {
+      "gameId": "satta-king",
+      "url": "https://satta-king-fast.com/satta-king/satta-result-chart/tk/"
+    },
+    {
+      "gameId": "kings",
+      "url": "https://satta-king-fast.com/kings/satta-result-chart/ki/"
+    },
+    {
+      "gameId": "old-city",
+      "url": "https://satta-king-fast.com/old-city/satta-result-chart/oc/"
+    },
+    {
+      "gameId": "neelkanth",
+      "url": "https://satta-king-fast.com/neelkanth/satta-result-chart/nl/"
+    },
+    {
+      "gameId": "shri-laxmi",
+      "url": "https://satta-king-fast.com/shri-laxmi/satta-result-chart/sl/"
+    },
+    {
+      "gameId": "mini-desawer",
+      "url": "https://satta-king-fast.com/mini-desawer/satta-result-chart/mw/"
+    },
+    {
+      "gameId": "gurgaon",
+      "url": "https://satta-king-fast.com/gurgaon/satta-result-chart/gu/"
+    },
+    {
+      "gameId": "veera-king",
+      "url": "https://satta-king-fast.com/veera-king/satta-result-chart/vr/"
+    },
+    {
+      "gameId": "paras",
+      "url": "https://satta-king-fast.com/paras/satta-result-chart/ps/"
+    },
+    {
+      "gameId": "farida-bazar",
+      "url": "https://satta-king-fast.com/farida-bazar/satta-result-chart/fr/"
+    },
+    {
+      "gameId": "vip-agra",
+      "url": "https://satta-king-fast.com/vip-agra/satta-result-chart/va/"
+    },
+    {
+      "gameId": "delhi-golden",
+      "url": "https://satta-king-fast.com/delhi-golden/satta-result-chart/dg/"
+    },
+    {
+      "gameId": "dhan-kuber",
+      "url": "https://satta-king-fast.com/dhan-kuber/satta-result-chart/ku/"
+    },
+    {
+      "gameId": "bhavishyavani",
+      "url": "https://satta-king-fast.com/bhavishyavani/satta-result-chart/bv/"
+    },
+    {
+      "gameId": "new-sahibabad",
+      "url": "https://satta-king-fast.com/new-sahibabad/satta-result-chart/ns/"
+    },
+    {
+      "gameId": "shri-ji",
+      "url": "https://satta-king-fast.com/shri-ji/satta-result-chart/sj/"
+    },
+    {
+      "gameId": "shiv-shankar",
+      "url": "https://satta-king-fast.com/shiv-shankar/satta-result-chart/sk/"
+    },
+    {
+      "gameId": "bharat",
+      "url": "https://satta-king-fast.com/bharat/satta-result-chart/bt/"
+    },
+    {
+      "gameId": "nagpur",
+      "url": "https://satta-king-fast.com/nagpur/satta-result-chart/nr/"
+    },
+    {
+      "gameId": "gali-bazar",
+      "url": "https://satta-king-fast.com/gali-bazar/satta-result-chart/bz/"
+    },
+    {
+      "gameId": "bangalore",
+      "url": "https://satta-king-fast.com/bangalore/satta-result-chart/lr/"
+    },
+    {
+      "gameId": "punjab-laxmi",
+      "url": "https://satta-king-fast.com/punjab-laxmi/satta-result-chart/pl/"
+    },
+    {
+      "gameId": "badshah",
+      "url": "https://satta-king-fast.com/badshah/satta-result-chart/hh/"
+    },
+    {
+      "gameId": "mahakal",
+      "url": "https://satta-king-fast.com/mahakal/satta-result-chart/km/"
+    },
+    {
+      "gameId": "star-gali",
+      "url": "https://satta-king-fast.com/star-gali/satta-result-chart/gs/"
+    },
+    {
+      "gameId": "mg-prime",
+      "url": "https://satta-king-fast.com/mg-prime/satta-result-chart/pe/"
+    },
+    {
+      "gameId": "om-namah-shivaye",
+      "url": "https://satta-king-fast.com/om-namah-shivaye/satta-result-chart/om/"
+    },
+    {
+      "gameId": "gali-disawar-mix",
+      "url": "https://satta-king-fast.com/gali-disawar-mix/satta-result-chart/gr/"
+    },
+    {
+      "gameId": "maa-lakshmi-delhi",
+      "url": "https://satta-king-fast.com/maa-lakshmi-delhi/satta-result-chart/xm/"
+    },
+    {
+      "gameId": "up-bazar",
+      "url": "https://satta-king-fast.com/up-bazar/satta-result-chart/ub/"
+    },
+    {
+      "gameId": "hindustan",
+      "url": "https://satta-king-fast.com/hindustan/satta-result-chart/hi/"
+    },
+    {
+      "gameId": "bombay-super",
+      "url": "https://satta-king-fast.com/bombay-super/satta-result-chart/bo/"
+    },
+    {
+      "gameId": "delhi-king",
+      "url": "https://satta-king-fast.com/delhi-king/satta-result-chart/kd/"
+    },
+    {
+      "gameId": "moti-city",
+      "url": "https://satta-king-fast.com/moti-city/satta-result-chart/cm/"
+    },
+    {
+      "gameId": "africa-disawar-evening",
+      "url": "https://satta-king-fast.com/africa-disawar-evening/satta-result-chart/ae/"
+    },
+    {
+      "gameId": "shivraj-786",
+      "url": "https://satta-king-fast.com/shivraj-786/satta-result-chart/vs/"
+    },
+    {
+      "gameId": "noida-king",
+      "url": "https://satta-king-fast.com/noida-king/satta-result-chart/nk/"
+    },
+    {
+      "gameId": "bikaner-super",
+      "url": "https://satta-king-fast.com/bikaner-super/satta-result-chart/bs/"
+    },
+    {
+      "gameId": "desawar",
+      "url": "https://satta-king-fast.com/desawar/satta-result-chart/ds/"
+    },
+    {
+      "gameId": "chotta-bazar",
+      "url": "https://satta-king-fast.com/chotta-bazar/satta-result-chart/cb/"
+    },
+    {
+      "gameId": "africa-disawar-morning",
+      "url": "https://satta-king-fast.com/africa-disawar/satta-result-chart/ad/"
+    },
+    {
+      "gameId": "new-delhi-darbar",
+      "url": "https://satta-king-fast.com/new-delhi-darbar/satta-result-chart/br/"
+    },
+    {
+      "gameId": "chandni-chowk-matka",
+      "url": "https://satta-king-fast.com/chandni-chowk-matka/satta-result-chart/cc/"
+    },
+    {
+      "gameId": "new-punjab",
+      "url": "https://satta-king-fast.com/new-punjab/satta-result-chart/np/"
+    },
+    {
+      "gameId": "faridabad-super",
+      "url": "https://satta-king-fast.com/faridabad-super/satta-result-chart/fs/"
+    },
+    {
+      "gameId": "ghaziabad-night",
+      "url": "https://satta-king-fast.com/ghaziabad-night/satta-result-chart/gz/"
+    },
+    {
+      "gameId": "shri-kanak",
+      "url": "https://satta-king-fast.com/shri-kanak/satta-result-chart/kn/"
+    },
+    {
+      "gameId": "gold-bazar",
+      "url": "https://satta-king-fast.com/gold-bazar/satta-result-chart/go/"
+    },
+    {
+      "gameId": "gali-gold",
+      "url": "https://satta-king-fast.com/gali-gold/satta-result-chart/li/"
+    },
+    {
+      "gameId": "shiv-dhanush",
+      "url": "https://satta-king-fast.com/shiv-dhanush/satta-result-chart/hv/"
+    },
+    {
+      "gameId": "rozana",
+      "url": "https://satta-king-fast.com/rozana/satta-result-chart/rz/"
+    },
+    {
+      "gameId": "bhagya-lakshmi",
+      "url": "https://satta-king-fast.com/bhagya-lakshmi/satta-result-chart/bg/"
+    },
+    {
+      "gameId": "sai-darbar",
+      "url": "https://satta-king-fast.com/sai-darbar/satta-result-chart/rr/"
+    },
+    {
+      "gameId": "nepal",
+      "url": "https://satta-king-fast.com/nepal/satta-result-chart/pn/"
+    },
+    {
+      "gameId": "new-ghaziabad",
+      "url": "https://satta-king-fast.com/new-ghaziabad/satta-result-chart/ng/"
+    },
+    {
+      "gameId": "ghaziabad",
+      "url": "https://satta-king-fast.com/ghaziabad/satta-result-chart/gb/"
+    },
+    {
+      "gameId": "delhi-matka-kings",
+      "url": "https://satta-king-fast.com/delhi-matka-kings/satta-result-chart/dl/"
+    },
+    {
+      "gameId": "bala-ji-dadri",
+      "url": "https://satta-king-fast.com/bala-ji-dadri/satta-result-chart/bd/"
+    },
+    {
+      "gameId": "jaisalmer",
+      "url": "https://satta-king-fast.com/jaisalmer/satta-result-chart/jm/"
+    },
+    {
+      "gameId": "new-gali",
+      "url": "https://satta-king-fast.com/new-gali/satta-result-chart/nw/"
+    },
+    {
+      "gameId": "shalimar",
+      "url": "https://satta-king-fast.com/shalimar/satta-result-chart/rs/"
+    },
+    {
+      "gameId": "delhi-evening",
+      "url": "https://satta-king-fast.com/delhi-evening/satta-result-chart/de/"
+    },
+    {
+      "gameId": "gali",
+      "url": "https://satta-king-fast.com/gali/satta-result-chart/gl/"
+    },
+    {
+      "gameId": "choti-gali",
+      "url": "https://satta-king-fast.com/choti-gali/satta-result-chart/cg/"
+    }
+  ]
+}

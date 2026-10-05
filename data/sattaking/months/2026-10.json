@@ -1,0 +1,2961 @@
+{
+  "schemaVersion": 1,
+  "month": "2026-10",
+  "results": [
+    {
+      "date": "2026-10-01",
+      "gameId": "jaipur-king",
+      "value": "59"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "matka-king",
+      "value": "31"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "jd-durga",
+      "value": "87"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "burj-khalifa-bk",
+      "value": "17"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "shree-ganga-nagar",
+      "value": "12"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "up-king",
+      "value": "15"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "agra-bazar",
+      "value": "95"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "rajdhani-jaipur",
+      "value": "43"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "bihar-king",
+      "value": "17"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "janta-city",
+      "value": "40"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "mumbai-bazaar",
+      "value": "87"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "ujala-super",
+      "value": "69"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "punjab-king",
+      "value": "17"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "new-jaipur-king",
+      "value": "08"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "matka-sone-ka",
+      "value": "21"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "super-king",
+      "value": "42"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "royal-bazar",
+      "value": "14"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "gaj-kesri",
+      "value": "45"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "kalka-bazar",
+      "value": "34"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "savera",
+      "value": "98"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "super-delhi",
+      "value": "12"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "delhi-6",
+      "value": "26"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "delhi-city",
+      "value": "61"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "deep-sagar",
+      "value": "41"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "delhi-dream",
+      "value": "28"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "super-taj",
+      "value": "09"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "meerut-metro",
+      "value": "76"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "mohali",
+      "value": "45"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "delhi-bazar",
+      "value": "76"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "meerut-city",
+      "value": "73"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "new-taj",
+      "value": "19"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "chennai",
+      "value": "40"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "royal-challenge",
+      "value": "63"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "taj",
+      "value": "67"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "super-bazar",
+      "value": "06"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "royal-king",
+      "value": "36"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "delhi-bazar-day",
+      "value": "24"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "maa-bhagwati",
+      "value": "72"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "anarkali",
+      "value": "79"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "dubai-delhi",
+      "value": "06"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "chand-tara",
+      "value": "67"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "udaan-king",
+      "value": "72"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "super-savera",
+      "value": "48"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "shiv-shakti",
+      "value": "49"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "shri-ganesh",
+      "value": "51"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "ghaziabad-din",
+      "value": "39"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "shri-nagar",
+      "value": "69"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "vip-king",
+      "value": "12"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "ds-number-1",
+      "value": "97"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "mahalaxmi-bazar",
+      "value": "09"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "ahmedabad",
+      "value": "66"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "maharaj",
+      "value": "05"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "uttarakhand-uk",
+      "value": "02"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "faridabad",
+      "value": "42"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "sadabahar",
+      "value": "34"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "old-faridabad",
+      "value": "61"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "satta-king",
+      "value": "09"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "kings",
+      "value": "66"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "old-city",
+      "value": "99"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "neelkanth",
+      "value": "71"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "shri-laxmi",
+      "value": "11"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "mini-desawer",
+      "value": "69"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "gurgaon",
+      "value": "15"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "veera-king",
+      "value": "25"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "paras",
+      "value": "36"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "farida-bazar",
+      "value": "74"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "vip-agra",
+      "value": "45"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "delhi-golden",
+      "value": "54"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "dhan-kuber",
+      "value": "09"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "bhavishyavani",
+      "value": "71"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "new-sahibabad",
+      "value": "29"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "shri-ji",
+      "value": "00"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "shiv-shankar",
+      "value": "21"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "bharat",
+      "value": "43"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "nagpur",
+      "value": "67"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "gali-bazar",
+      "value": "51"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "bangalore",
+      "value": "25"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "punjab-laxmi",
+      "value": "34"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "badshah",
+      "value": "40"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "mahakal",
+      "value": "01"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "star-gali",
+      "value": "93"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "mg-prime",
+      "value": "39"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "om-namah-shivaye",
+      "value": "65"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "gali-disawar-mix",
+      "value": "94"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "maa-lakshmi-delhi",
+      "value": "58"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "up-bazar",
+      "value": "39"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "hindustan",
+      "value": "92"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "bombay-super",
+      "value": "27"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "delhi-king",
+      "value": "62"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "moti-city",
+      "value": "62"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "africa-disawar-evening",
+      "value": "21"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "shivraj-786",
+      "value": "91"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "new-delhi-darbar",
+      "value": "08"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "chandni-chowk-matka",
+      "value": "33"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "new-punjab",
+      "value": "11"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "faridabad-super",
+      "value": "67"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "ghaziabad-night",
+      "value": "23"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "shri-kanak",
+      "value": "92"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "gold-bazar",
+      "value": "36"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "gali-gold",
+      "value": "13"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "shiv-dhanush",
+      "value": "15"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "rozana",
+      "value": "62"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "bhagya-lakshmi",
+      "value": "18"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "sai-darbar",
+      "value": "04"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "nepal",
+      "value": "76"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "new-ghaziabad",
+      "value": "43"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "ghaziabad",
+      "value": "67"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "delhi-matka-kings",
+      "value": "44"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "bala-ji-dadri",
+      "value": "15"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "jaisalmer",
+      "value": "71"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "new-gali",
+      "value": "83"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "shalimar",
+      "value": "66"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "delhi-evening",
+      "value": "95"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "gali",
+      "value": "93"
+    },
+    {
+      "date": "2026-10-01",
+      "gameId": "choti-gali",
+      "value": "41"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "jaipur-king",
+      "value": "17"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "matka-king",
+      "value": "55"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "jd-durga",
+      "value": "49"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "burj-khalifa-bk",
+      "value": "55"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "shree-ganga-nagar",
+      "value": "42"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "up-king",
+      "value": "02"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "agra-bazar",
+      "value": "16"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "rajdhani-jaipur",
+      "value": "51"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "bihar-king",
+      "value": "07"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "janta-city",
+      "value": "56"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "mumbai-bazaar",
+      "value": "06"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "ujala-super",
+      "value": "17"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "punjab-king",
+      "value": "67"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "new-jaipur-king",
+      "value": "34"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "matka-sone-ka",
+      "value": "68"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "super-king",
+      "value": "60"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "royal-bazar",
+      "value": "99"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "gaj-kesri",
+      "value": "26"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "kalka-bazar",
+      "value": "91"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "savera",
+      "value": "46"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "super-delhi",
+      "value": "99"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "delhi-6",
+      "value": "42"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "delhi-city",
+      "value": "70"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "deep-sagar",
+      "value": "97"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "delhi-dream",
+      "value": "62"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "super-taj",
+      "value": "47"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "meerut-metro",
+      "value": "57"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "mohali",
+      "value": "25"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "delhi-bazar",
+      "value": "25"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "meerut-city",
+      "value": "05"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "new-taj",
+      "value": "45"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "chennai",
+      "value": "35"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "royal-challenge",
+      "value": "90"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "taj",
+      "value": "55"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "super-bazar",
+      "value": "43"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "royal-king",
+      "value": "06"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "delhi-bazar-day",
+      "value": "96"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "maa-bhagwati",
+      "value": "85"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "anarkali",
+      "value": "43"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "dubai-delhi",
+      "value": "14"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "chand-tara",
+      "value": "09"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "udaan-king",
+      "value": "20"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "super-savera",
+      "value": "98"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "shiv-shakti",
+      "value": "00"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "shri-ganesh",
+      "value": "31"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "ghaziabad-din",
+      "value": "74"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "shri-nagar",
+      "value": "70"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "vip-king",
+      "value": "63"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "ds-number-1",
+      "value": "09"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "mahalaxmi-bazar",
+      "value": "10"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "ahmedabad",
+      "value": "76"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "maharaj",
+      "value": "48"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "uttarakhand-uk",
+      "value": "00"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "faridabad",
+      "value": "05"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "sadabahar",
+      "value": "95"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "old-faridabad",
+      "value": "52"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "satta-king",
+      "value": "96"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "kings",
+      "value": "01"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "old-city",
+      "value": "50"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "neelkanth",
+      "value": "00"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "shri-laxmi",
+      "value": "70"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "mini-desawer",
+      "value": "87"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "gurgaon",
+      "value": "20"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "veera-king",
+      "value": "93"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "paras",
+      "value": "77"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "farida-bazar",
+      "value": "00"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "vip-agra",
+      "value": "68"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "delhi-golden",
+      "value": "16"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "dhan-kuber",
+      "value": "79"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "bhavishyavani",
+      "value": "40"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "new-sahibabad",
+      "value": "93"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "shri-ji",
+      "value": "54"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "shiv-shankar",
+      "value": "48"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "bharat",
+      "value": "49"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "nagpur",
+      "value": "18"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "gali-bazar",
+      "value": "82"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "bangalore",
+      "value": "20"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "punjab-laxmi",
+      "value": "17"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "badshah",
+      "value": "02"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "mahakal",
+      "value": "64"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "star-gali",
+      "value": "01"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "mg-prime",
+      "value": "88"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "om-namah-shivaye",
+      "value": "31"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "gali-disawar-mix",
+      "value": "69"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "maa-lakshmi-delhi",
+      "value": "75"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "up-bazar",
+      "value": "50"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "hindustan",
+      "value": "97"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "bombay-super",
+      "value": "86"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "delhi-king",
+      "value": "71"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "moti-city",
+      "value": "24"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "africa-disawar-evening",
+      "value": "11"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "shivraj-786",
+      "value": "11"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "noida-king",
+      "value": "57"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "bikaner-super",
+      "value": "04"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "desawar",
+      "value": "52"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "chotta-bazar",
+      "value": "01"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "africa-disawar-morning",
+      "value": "04"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "new-delhi-darbar",
+      "value": "25"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "chandni-chowk-matka",
+      "value": "02"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "new-punjab",
+      "value": "76"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "faridabad-super",
+      "value": "80"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "ghaziabad-night",
+      "value": "15"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "shri-kanak",
+      "value": "27"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "gold-bazar",
+      "value": "55"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "gali-gold",
+      "value": "95"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "shiv-dhanush",
+      "value": "88"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "rozana",
+      "value": "47"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "bhagya-lakshmi",
+      "value": "70"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "sai-darbar",
+      "value": "69"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "nepal",
+      "value": "70"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "new-ghaziabad",
+      "value": "37"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "ghaziabad",
+      "value": "81"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "delhi-matka-kings",
+      "value": "77"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "bala-ji-dadri",
+      "value": "56"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "jaisalmer",
+      "value": "50"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "new-gali",
+      "value": "89"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "shalimar",
+      "value": "26"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "delhi-evening",
+      "value": "70"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "gali",
+      "value": "01"
+    },
+    {
+      "date": "2026-10-02",
+      "gameId": "choti-gali",
+      "value": "83"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "jaipur-king",
+      "value": "37"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "matka-king",
+      "value": "29"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "jd-durga",
+      "value": "77"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "burj-khalifa-bk",
+      "value": "32"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "shree-ganga-nagar",
+      "value": "04"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "up-king",
+      "value": "31"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "agra-bazar",
+      "value": "97"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "rajdhani-jaipur",
+      "value": "47"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "bihar-king",
+      "value": "88"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "janta-city",
+      "value": "22"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "mumbai-bazaar",
+      "value": "52"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "ujala-super",
+      "value": "44"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "punjab-king",
+      "value": "92"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "new-jaipur-king",
+      "value": "56"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "matka-sone-ka",
+      "value": "22"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "super-king",
+      "value": "33"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "royal-bazar",
+      "value": "18"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "gaj-kesri",
+      "value": "96"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "kalka-bazar",
+      "value": "34"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "savera",
+      "value": "87"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "super-delhi",
+      "value": "32"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "delhi-6",
+      "value": "51"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "delhi-city",
+      "value": "49"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "deep-sagar",
+      "value": "34"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "delhi-dream",
+      "value": "11"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "super-taj",
+      "value": "25"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "meerut-metro",
+      "value": "65"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "mohali",
+      "value": "19"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "delhi-bazar",
+      "value": "25"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "meerut-city",
+      "value": "45"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "new-taj",
+      "value": "90"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "chennai",
+      "value": "81"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "royal-challenge",
+      "value": "34"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "taj",
+      "value": "31"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "super-bazar",
+      "value": "26"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "royal-king",
+      "value": "35"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "delhi-bazar-day",
+      "value": "27"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "maa-bhagwati",
+      "value": "96"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "anarkali",
+      "value": "06"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "dubai-delhi",
+      "value": "33"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "chand-tara",
+      "value": "44"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "udaan-king",
+      "value": "78"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "super-savera",
+      "value": "99"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "shiv-shakti",
+      "value": "84"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "shri-ganesh",
+      "value": "54"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "ghaziabad-din",
+      "value": "45"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "shri-nagar",
+      "value": "63"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "vip-king",
+      "value": "68"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "ds-number-1",
+      "value": "74"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "mahalaxmi-bazar",
+      "value": "57"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "ahmedabad",
+      "value": "00"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "maharaj",
+      "value": "88"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "uttarakhand-uk",
+      "value": "21"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "faridabad",
+      "value": "58"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "sadabahar",
+      "value": "58"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "old-faridabad",
+      "value": "62"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "satta-king",
+      "value": "78"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "kings",
+      "value": "47"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "old-city",
+      "value": "58"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "neelkanth",
+      "value": "07"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "shri-laxmi",
+      "value": "76"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "mini-desawer",
+      "value": "71"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "gurgaon",
+      "value": "87"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "veera-king",
+      "value": "42"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "paras",
+      "value": "03"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "farida-bazar",
+      "value": "43"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "vip-agra",
+      "value": "73"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "delhi-golden",
+      "value": "95"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "dhan-kuber",
+      "value": "61"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "bhavishyavani",
+      "value": "43"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "new-sahibabad",
+      "value": "55"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "shri-ji",
+      "value": "81"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "shiv-shankar",
+      "value": "56"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "bharat",
+      "value": "95"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "nagpur",
+      "value": "58"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "gali-bazar",
+      "value": "06"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "bangalore",
+      "value": "20"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "punjab-laxmi",
+      "value": "05"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "badshah",
+      "value": "85"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "mahakal",
+      "value": "01"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "star-gali",
+      "value": "68"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "mg-prime",
+      "value": "75"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "om-namah-shivaye",
+      "value": "74"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "gali-disawar-mix",
+      "value": "98"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "maa-lakshmi-delhi",
+      "value": "52"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "up-bazar",
+      "value": "41"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "hindustan",
+      "value": "20"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "bombay-super",
+      "value": "97"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "delhi-king",
+      "value": "21"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "moti-city",
+      "value": "93"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "africa-disawar-evening",
+      "value": "60"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "shivraj-786",
+      "value": "04"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "noida-king",
+      "value": "56"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "bikaner-super",
+      "value": "83"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "desawar",
+      "value": "18"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "chotta-bazar",
+      "value": "52"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "africa-disawar-morning",
+      "value": "87"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "new-delhi-darbar",
+      "value": "00"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "chandni-chowk-matka",
+      "value": "25"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "new-punjab",
+      "value": "44"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "faridabad-super",
+      "value": "94"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "ghaziabad-night",
+      "value": "57"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "shri-kanak",
+      "value": "20"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "gold-bazar",
+      "value": "88"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "gali-gold",
+      "value": "19"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "shiv-dhanush",
+      "value": "29"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "rozana",
+      "value": "21"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "bhagya-lakshmi",
+      "value": "73"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "sai-darbar",
+      "value": "40"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "nepal",
+      "value": "40"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "new-ghaziabad",
+      "value": "67"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "ghaziabad",
+      "value": "95"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "delhi-matka-kings",
+      "value": "99"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "bala-ji-dadri",
+      "value": "01"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "jaisalmer",
+      "value": "73"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "new-gali",
+      "value": "84"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "shalimar",
+      "value": "35"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "delhi-evening",
+      "value": "37"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "gali",
+      "value": "68"
+    },
+    {
+      "date": "2026-10-03",
+      "gameId": "choti-gali",
+      "value": "16"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "jaipur-king",
+      "value": "73"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "matka-king",
+      "value": "84"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "jd-durga",
+      "value": "12"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "burj-khalifa-bk",
+      "value": "68"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "shree-ganga-nagar",
+      "value": "98"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "up-king",
+      "value": "00"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "agra-bazar",
+      "value": "31"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "rajdhani-jaipur",
+      "value": "02"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "bihar-king",
+      "value": "34"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "janta-city",
+      "value": "99"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "mumbai-bazaar",
+      "value": "63"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "ujala-super",
+      "value": "23"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "punjab-king",
+      "value": "06"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "new-jaipur-king",
+      "value": "01"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "matka-sone-ka",
+      "value": "76"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "super-king",
+      "value": "24"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "royal-bazar",
+      "value": "13"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "gaj-kesri",
+      "value": "04"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "kalka-bazar",
+      "value": "81"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "savera",
+      "value": "84"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "super-delhi",
+      "value": "94"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "delhi-city",
+      "value": "60"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "deep-sagar",
+      "value": "23"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "delhi-dream",
+      "value": "97"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "super-taj",
+      "value": "10"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "meerut-metro",
+      "value": "73"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "mohali",
+      "value": "23"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "delhi-bazar",
+      "value": "91"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "new-taj",
+      "value": "04"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "chennai",
+      "value": "54"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "royal-challenge",
+      "value": "46"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "taj",
+      "value": "87"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "super-bazar",
+      "value": "35"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "royal-king",
+      "value": "62"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "delhi-bazar-day",
+      "value": "94"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "maa-bhagwati",
+      "value": "43"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "anarkali",
+      "value": "29"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "dubai-delhi",
+      "value": "70"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "chand-tara",
+      "value": "79"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "udaan-king",
+      "value": "10"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "super-savera",
+      "value": "94"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "shiv-shakti",
+      "value": "52"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "shri-ganesh",
+      "value": "47"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "ghaziabad-din",
+      "value": "29"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "shri-nagar",
+      "value": "77"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "vip-king",
+      "value": "11"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "ds-number-1",
+      "value": "82"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "mahalaxmi-bazar",
+      "value": "33"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "ahmedabad",
+      "value": "08"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "maharaj",
+      "value": "14"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "uttarakhand-uk",
+      "value": "36"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "faridabad",
+      "value": "36"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "sadabahar",
+      "value": "74"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "old-faridabad",
+      "value": "33"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "satta-king",
+      "value": "58"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "kings",
+      "value": "31"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "old-city",
+      "value": "74"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "neelkanth",
+      "value": "57"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "shri-laxmi",
+      "value": "55"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "mini-desawer",
+      "value": "19"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "gurgaon",
+      "value": "21"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "veera-king",
+      "value": "71"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "paras",
+      "value": "03"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "farida-bazar",
+      "value": "91"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "vip-agra",
+      "value": "14"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "delhi-golden",
+      "value": "87"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "dhan-kuber",
+      "value": "24"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "bhavishyavani",
+      "value": "11"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "new-sahibabad",
+      "value": "35"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "shri-ji",
+      "value": "18"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "shiv-shankar",
+      "value": "69"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "bharat",
+      "value": "46"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "nagpur",
+      "value": "48"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "gali-bazar",
+      "value": "53"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "bangalore",
+      "value": "04"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "punjab-laxmi",
+      "value": "92"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "badshah",
+      "value": "39"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "mahakal",
+      "value": "15"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "mg-prime",
+      "value": "30"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "om-namah-shivaye",
+      "value": "09"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "gali-disawar-mix",
+      "value": "28"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "maa-lakshmi-delhi",
+      "value": "40"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "up-bazar",
+      "value": "97"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "hindustan",
+      "value": "21"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "bombay-super",
+      "value": "91"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "delhi-king",
+      "value": "13"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "moti-city",
+      "value": "92"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "africa-disawar-evening",
+      "value": "24"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "shivraj-786",
+      "value": "43"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "noida-king",
+      "value": "89"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "bikaner-super",
+      "value": "21"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "desawar",
+      "value": "15"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "chotta-bazar",
+      "value": "25"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "africa-disawar-morning",
+      "value": "69"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "new-delhi-darbar",
+      "value": "62"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "chandni-chowk-matka",
+      "value": "33"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "new-punjab",
+      "value": "58"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "faridabad-super",
+      "value": "17"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "ghaziabad-night",
+      "value": "78"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "shri-kanak",
+      "value": "33"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "gold-bazar",
+      "value": "64"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "gali-gold",
+      "value": "37"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "shiv-dhanush",
+      "value": "48"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "rozana",
+      "value": "95"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "bhagya-lakshmi",
+      "value": "93"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "sai-darbar",
+      "value": "78"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "nepal",
+      "value": "11"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "new-ghaziabad",
+      "value": "04"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "ghaziabad",
+      "value": "98"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "delhi-matka-kings",
+      "value": "01"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "bala-ji-dadri",
+      "value": "49"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "jaisalmer",
+      "value": "73"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "new-gali",
+      "value": "02"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "shalimar",
+      "value": "50"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "delhi-evening",
+      "value": "00"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "gali",
+      "value": "80"
+    },
+    {
+      "date": "2026-10-04",
+      "gameId": "choti-gali",
+      "value": "52"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "jaipur-king",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "matka-king",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "jd-durga",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "burj-khalifa-bk",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "shree-ganga-nagar",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "up-king",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "agra-bazar",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "rajdhani-jaipur",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "bihar-king",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "janta-city",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "mumbai-bazaar",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "ujala-super",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "punjab-king",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "new-jaipur-king",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "matka-sone-ka",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "super-king",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "royal-bazar",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "gaj-kesri",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "kalka-bazar",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "savera",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "super-delhi",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "delhi-6",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "delhi-city",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "deep-sagar",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "delhi-dream",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "super-taj",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "meerut-metro",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "mohali",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "delhi-bazar",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "meerut-city",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "new-taj",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "chennai",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "royal-challenge",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "taj",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "super-bazar",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "royal-king",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "delhi-bazar-day",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "maa-bhagwati",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "anarkali",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "dubai-delhi",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "chand-tara",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "udaan-king",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "super-savera",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "shiv-shakti",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "shri-ganesh",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "ghaziabad-din",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "shri-nagar",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "vip-king",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "ds-number-1",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "mahalaxmi-bazar",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "ahmedabad",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "maharaj",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "uttarakhand-uk",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "faridabad",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "sadabahar",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "old-faridabad",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "satta-king",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "kings",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "old-city",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "neelkanth",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "shri-laxmi",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "mini-desawer",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "gurgaon",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "veera-king",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "paras",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "farida-bazar",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "vip-agra",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "delhi-golden",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "dhan-kuber",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "bhavishyavani",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "new-sahibabad",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "shri-ji",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "shiv-shankar",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "bharat",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "nagpur",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "gali-bazar",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "bangalore",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "punjab-laxmi",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "badshah",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "mahakal",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "star-gali",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "mg-prime",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "om-namah-shivaye",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "gali-disawar-mix",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "maa-lakshmi-delhi",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "up-bazar",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "hindustan",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "bombay-super",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "delhi-king",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "moti-city",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "africa-disawar-evening",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "shivraj-786",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "noida-king",
+      "value": "07"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "desawar",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "chotta-bazar",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "africa-disawar-morning",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "new-delhi-darbar",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "chandni-chowk-matka",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "new-punjab",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "faridabad-super",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "ghaziabad-night",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "shri-kanak",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "gold-bazar",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "gali-gold",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "shiv-dhanush",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "rozana",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "bhagya-lakshmi",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "sai-darbar",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "nepal",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "new-ghaziabad",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "ghaziabad",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "delhi-matka-kings",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "bala-ji-dadri",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "jaisalmer",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "new-gali",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "shalimar",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "delhi-evening",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "gali",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-05",
+      "gameId": "choti-gali",
+      "value": "XX"
+    }
+  ]
+}

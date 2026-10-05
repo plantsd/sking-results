@@ -1,0 +1,46 @@
+name: Update SattaKing archive
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sattaking-current-month
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out public feed
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Check due current-month source results
+        env:
+          SATTAKING_INGEST_URL: ${{ vars.SATTAKING_INGEST_URL }}
+          SATTAKING_INGEST_SECRET: ${{ secrets.SATTAKING_INGEST_SECRET }}
+        run: python scripts/update_sattaking.py
+
+      - name: Commit archive changes only
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/sattaking/manifest.json data/sattaking/months
+          if git diff --cached --quiet; then
+            echo "No source data changes to commit."
+          else
+            git commit -m "Update current-month SattaKing results"
+            git push
+          fi

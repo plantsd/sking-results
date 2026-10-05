@@ -1,0 +1,872 @@
+{
+  "schemaVersion": 1,
+  "source": "SattaKing",
+  "updatedAt": "2026-10-05T03:07:03+05:30",
+  "games": [
+    {
+      "id": "jaipur-king",
+      "name": "JAIPUR KING",
+      "order": 1,
+      "resultTime": "02:20 PM"
+    },
+    {
+      "id": "matka-king",
+      "name": "MATKA KING",
+      "order": 2,
+      "resultTime": "02:15 PM"
+    },
+    {
+      "id": "jd-durga",
+      "name": "JD DURGA",
+      "order": 3,
+      "resultTime": "02:15 PM"
+    },
+    {
+      "id": "burj-khalifa-bk",
+      "name": "BURJ KHALIFA - BK",
+      "order": 4,
+      "resultTime": "02:10 PM"
+    },
+    {
+      "id": "shree-ganga-nagar",
+      "name": "SHREE GANGA NAGAR",
+      "order": 5,
+      "resultTime": "02:10 PM"
+    },
+    {
+      "id": "up-king",
+      "name": "U.P KING",
+      "order": 6,
+      "resultTime": "02:00 PM"
+    },
+    {
+      "id": "agra-bazar",
+      "name": "AGRA BAZAR",
+      "order": 7,
+      "resultTime": "02:00 PM"
+    },
+    {
+      "id": "rajdhani-jaipur",
+      "name": "RAJDHANI JAIPUR",
+      "order": 8,
+      "resultTime": "02:00 PM"
+    },
+    {
+      "id": "bihar-king",
+      "name": "BIHAR KING",
+      "order": 9,
+      "resultTime": "02:00 PM"
+    },
+    {
+      "id": "janta-city",
+      "name": "JANTA CITY",
+      "order": 10,
+      "resultTime": "02:00 PM"
+    },
+    {
+      "id": "mumbai-bazaar",
+      "name": "MUMBAI BAZAAR",
+      "order": 11,
+      "resultTime": "02:00 PM"
+    },
+    {
+      "id": "ujala-super",
+      "name": "UJALA SUPER",
+      "order": 12,
+      "resultTime": "02:00 PM"
+    },
+    {
+      "id": "punjab-king",
+      "name": "PUNJAB KING",
+      "order": 13,
+      "resultTime": "02:00 PM"
+    },
+    {
+      "id": "new-jaipur-king",
+      "name": "NEW JAIPUR KING",
+      "order": 14,
+      "resultTime": "02:00 PM"
+    },
+    {
+      "id": "matka-sone-ka",
+      "name": "MATKA SONE KA",
+      "order": 15,
+      "resultTime": "01:55 PM"
+    },
+    {
+      "id": "super-king",
+      "name": "SUPER KING",
+      "order": 16,
+      "resultTime": "01:45 PM"
+    },
+    {
+      "id": "royal-bazar",
+      "name": "ROYAL BAZAR",
+      "order": 17,
+      "resultTime": "01:15 PM"
+    },
+    {
+      "id": "gaj-kesri",
+      "name": "GAJ KESRI",
+      "order": 18,
+      "resultTime": "01:15 PM"
+    },
+    {
+      "id": "kalka-bazar",
+      "name": "KALKA BAZAR",
+      "order": 19,
+      "resultTime": "02:30 PM"
+    },
+    {
+      "id": "savera",
+      "name": "SAVERA",
+      "order": 20,
+      "resultTime": "02:30 PM"
+    },
+    {
+      "id": "super-delhi",
+      "name": "SUPER DELHI",
+      "order": 21,
+      "resultTime": "02:30 PM"
+    },
+    {
+      "id": "delhi-6",
+      "name": "DELHI 6",
+      "order": 22,
+      "resultTime": "02:30 PM"
+    },
+    {
+      "id": "delhi-city",
+      "name": "DELHI CITY",
+      "order": 23,
+      "resultTime": "02:30 PM"
+    },
+    {
+      "id": "deep-sagar",
+      "name": "DEEP SAGAR",
+      "order": 24,
+      "resultTime": "02:40 PM"
+    },
+    {
+      "id": "delhi-dream",
+      "name": "DELHI DREAM",
+      "order": 25,
+      "resultTime": "02:40 PM"
+    },
+    {
+      "id": "super-taj",
+      "name": "SUPER TAJ",
+      "order": 26,
+      "resultTime": "02:40 PM"
+    },
+    {
+      "id": "meerut-metro",
+      "name": "MEERUT METRO",
+      "order": 27,
+      "resultTime": "02:45 PM"
+    },
+    {
+      "id": "mohali",
+      "name": "MOHALI",
+      "order": 28,
+      "resultTime": "03:00 PM"
+    },
+    {
+      "id": "delhi-bazar",
+      "name": "DELHI BAZAR",
+      "order": 29,
+      "resultTime": "03:00 PM"
+    },
+    {
+      "id": "meerut-city",
+      "name": "MEERUT CITY",
+      "order": 30,
+      "resultTime": "03:00 PM"
+    },
+    {
+      "id": "new-taj",
+      "name": "NEW TAJ",
+      "order": 31,
+      "resultTime": "03:00 PM"
+    },
+    {
+      "id": "chennai",
+      "name": "CHENNAI",
+      "order": 32,
+      "resultTime": "03:05 PM"
+    },
+    {
+      "id": "royal-challenge",
+      "name": "ROYAL CHALLENGE",
+      "order": 33,
+      "resultTime": "03:10 PM"
+    },
+    {
+      "id": "taj",
+      "name": "TAJ",
+      "order": 34,
+      "resultTime": "03:15 PM"
+    },
+    {
+      "id": "super-bazar",
+      "name": "SUPER BAZAR",
+      "order": 35,
+      "resultTime": "03:15 PM"
+    },
+    {
+      "id": "royal-king",
+      "name": "ROYAL KING",
+      "order": 36,
+      "resultTime": "03:15 PM"
+    },
+    {
+      "id": "delhi-bazar-day",
+      "name": "DELHI BAZAR DAY",
+      "order": 37,
+      "resultTime": "03:15 PM"
+    },
+    {
+      "id": "maa-bhagwati",
+      "name": "MAA BHAGWATI",
+      "order": 38,
+      "resultTime": "03:30 PM"
+    },
+    {
+      "id": "anarkali",
+      "name": "ANARKALI",
+      "order": 39,
+      "resultTime": "03:30 PM"
+    },
+    {
+      "id": "dubai-delhi",
+      "name": "DUBAI DELHI",
+      "order": 40,
+      "resultTime": "03:45 PM"
+    },
+    {
+      "id": "chand-tara",
+      "name": "CHAND TARA",
+      "order": 41,
+      "resultTime": "04:00 PM"
+    },
+    {
+      "id": "udaan-king",
+      "name": "UDAAN KING",
+      "order": 42,
+      "resultTime": "04:00 PM"
+    },
+    {
+      "id": "super-savera",
+      "name": "SUPER SAVERA",
+      "order": 43,
+      "resultTime": "04:00 PM"
+    },
+    {
+      "id": "shiv-shakti",
+      "name": "SHIV SHAKTI",
+      "order": 44,
+      "resultTime": "04:05 PM"
+    },
+    {
+      "id": "shri-ganesh",
+      "name": "SHRI GANESH",
+      "order": 45,
+      "resultTime": "04:30 PM"
+    },
+    {
+      "id": "ghaziabad-din",
+      "name": "GHAZIABAD DIN",
+      "order": 46,
+      "resultTime": "04:35 PM"
+    },
+    {
+      "id": "shri-nagar",
+      "name": "SHRI NAGAR",
+      "order": 47,
+      "resultTime": "04:35 PM"
+    },
+    {
+      "id": "vip-king",
+      "name": "VIP KING",
+      "order": 48,
+      "resultTime": "04:45 PM"
+    },
+    {
+      "id": "ds-number-1",
+      "name": "DS NUMBER 1",
+      "order": 49,
+      "resultTime": "05:00 PM"
+    },
+    {
+      "id": "mahalaxmi-bazar",
+      "name": "MAHALAXMI BAZAR",
+      "order": 50,
+      "resultTime": "05:05 PM"
+    },
+    {
+      "id": "ahmedabad",
+      "name": "AHMEDABAD",
+      "order": 51,
+      "resultTime": "05:10 PM"
+    },
+    {
+      "id": "maharaj",
+      "name": "MAHARAJ",
+      "order": 52,
+      "resultTime": "05:15 PM"
+    },
+    {
+      "id": "uttarakhand-uk",
+      "name": "UTTARAKHAND - UK",
+      "order": 53,
+      "resultTime": "05:30 PM"
+    },
+    {
+      "id": "faridabad",
+      "name": "FARIDABAD",
+      "order": 54,
+      "resultTime": "06:00 PM"
+    },
+    {
+      "id": "sadabahar",
+      "name": "SADABAHAR",
+      "order": 55,
+      "resultTime": "06:00 PM"
+    },
+    {
+      "id": "old-faridabad",
+      "name": "OLD FARIDABAD",
+      "order": 56,
+      "resultTime": "06:00 PM"
+    },
+    {
+      "id": "satta-king",
+      "name": "SATTA KING",
+      "order": 57,
+      "resultTime": "06:15 PM"
+    },
+    {
+      "id": "kings",
+      "name": "KINGS",
+      "order": 58,
+      "resultTime": "06:30 PM"
+    },
+    {
+      "id": "old-city",
+      "name": "OLD CITY",
+      "order": 59,
+      "resultTime": "07:15 PM"
+    },
+    {
+      "id": "neelkanth",
+      "name": "NEELKANTH",
+      "order": 60,
+      "resultTime": "07:20 PM"
+    },
+    {
+      "id": "shri-laxmi",
+      "name": "SHRI LAXMI",
+      "order": 61,
+      "resultTime": "07:30 PM"
+    },
+    {
+      "id": "mini-desawer",
+      "name": "MINI DESAWER",
+      "order": 62,
+      "resultTime": "07:30 PM"
+    },
+    {
+      "id": "gurgaon",
+      "name": "GURGAON",
+      "order": 63,
+      "resultTime": "07:35 PM"
+    },
+    {
+      "id": "veera-king",
+      "name": "VEERA KING",
+      "order": 64,
+      "resultTime": "07:40 PM"
+    },
+    {
+      "id": "paras",
+      "name": "PARAS",
+      "order": 65,
+      "resultTime": "07:40 PM"
+    },
+    {
+      "id": "farida-bazar",
+      "name": "FARIDA BAZAR",
+      "order": 66,
+      "resultTime": "07:40 PM"
+    },
+    {
+      "id": "vip-agra",
+      "name": "VIP AGRA",
+      "order": 67,
+      "resultTime": "07:45 PM"
+    },
+    {
+      "id": "delhi-golden",
+      "name": "DELHI GOLDEN",
+      "order": 68,
+      "resultTime": "07:45 PM"
+    },
+    {
+      "id": "dhan-kuber",
+      "name": "DHAN KUBER",
+      "order": 69,
+      "resultTime": "07:55 PM"
+    },
+    {
+      "id": "bhavishyavani",
+      "name": "BHAVISHYAVANI",
+      "order": 70,
+      "resultTime": "07:55 PM"
+    },
+    {
+      "id": "new-sahibabad",
+      "name": "NEW SAHIBABAD",
+      "order": 71,
+      "resultTime": "08:00 PM"
+    },
+    {
+      "id": "shri-ji",
+      "name": "SHRI JI",
+      "order": 72,
+      "resultTime": "08:00 PM"
+    },
+    {
+      "id": "shiv-shankar",
+      "name": "SHIV SHANKAR",
+      "order": 73,
+      "resultTime": "08:00 PM"
+    },
+    {
+      "id": "bharat",
+      "name": "BHARAT",
+      "order": 74,
+      "resultTime": "08:00 PM"
+    },
+    {
+      "id": "nagpur",
+      "name": "NAGPUR",
+      "order": 75,
+      "resultTime": "08:00 PM"
+    },
+    {
+      "id": "gali-bazar",
+      "name": "GALI BAZAR",
+      "order": 76,
+      "resultTime": "08:00 PM"
+    },
+    {
+      "id": "bangalore",
+      "name": "BANGALORE",
+      "order": 77,
+      "resultTime": "08:00 PM"
+    },
+    {
+      "id": "punjab-laxmi",
+      "name": "PUNJAB LAXMI",
+      "order": 78,
+      "resultTime": "08:00 PM"
+    },
+    {
+      "id": "badshah",
+      "name": "BADSHAH",
+      "order": 79,
+      "resultTime": "08:00 PM"
+    },
+    {
+      "id": "mahakal",
+      "name": "MAHAKAL",
+      "order": 80,
+      "resultTime": "08:00 PM"
+    },
+    {
+      "id": "star-gali",
+      "name": "STAR GALI",
+      "order": 81,
+      "resultTime": "08:05 PM"
+    },
+    {
+      "id": "mg-prime",
+      "name": "MG PRIME",
+      "order": 82,
+      "resultTime": "08:05 PM"
+    },
+    {
+      "id": "om-namah-shivaye",
+      "name": "OM NAMAH SHIVAYE",
+      "order": 83,
+      "resultTime": "08:10 PM"
+    },
+    {
+      "id": "gali-disawar-mix",
+      "name": "GALI DISAWAR MIX",
+      "order": 84,
+      "resultTime": "08:15 PM"
+    },
+    {
+      "id": "maa-lakshmi-delhi",
+      "name": "MAA LAKSHMI DELHI",
+      "order": 85,
+      "resultTime": "08:15 PM"
+    },
+    {
+      "id": "up-bazar",
+      "name": "UP BAZAR",
+      "order": 86,
+      "resultTime": "08:15 PM"
+    },
+    {
+      "id": "hindustan",
+      "name": "HINDUSTAN",
+      "order": 87,
+      "resultTime": "08:15 PM"
+    },
+    {
+      "id": "bombay-super",
+      "name": "BOMBAY SUPER",
+      "order": 88,
+      "resultTime": "08:15 PM"
+    },
+    {
+      "id": "delhi-king",
+      "name": "DELHI KING",
+      "order": 89,
+      "resultTime": "08:15 PM"
+    },
+    {
+      "id": "moti-city",
+      "name": "MOTI CITY",
+      "order": 90,
+      "resultTime": "08:15 PM"
+    },
+    {
+      "id": "africa-disawar-evening",
+      "name": "AFRICA DISAWAR",
+      "order": 91,
+      "resultTime": "08:15 PM"
+    },
+    {
+      "id": "shivraj-786",
+      "name": "SHIVRAJ 786",
+      "order": 92,
+      "resultTime": "08:20 PM"
+    },
+    {
+      "id": "noida-king",
+      "name": "NOIDA KING",
+      "order": 93,
+      "resultTime": "01:15 AM"
+    },
+    {
+      "id": "bikaner-super",
+      "name": "BIKANER SUPER",
+      "order": 94,
+      "resultTime": "02:20 AM"
+    },
+    {
+      "id": "desawar",
+      "name": "DESAWAR",
+      "order": 95,
+      "resultTime": "05:00 AM"
+    },
+    {
+      "id": "chotta-bazar",
+      "name": "CHOTTA BAZAR",
+      "order": 96,
+      "resultTime": "05:30 AM"
+    },
+    {
+      "id": "africa-disawar-morning",
+      "name": "AFRICA DISAWAR",
+      "order": 97,
+      "resultTime": "05:45 AM"
+    },
+    {
+      "id": "new-delhi-darbar",
+      "name": "NEW DELHI DARBAR",
+      "order": 98,
+      "resultTime": "07:00 AM"
+    },
+    {
+      "id": "chandni-chowk-matka",
+      "name": "CHANDNI CHOWK MATKA",
+      "order": 99,
+      "resultTime": "10:00 AM"
+    },
+    {
+      "id": "new-punjab",
+      "name": "NEW PUNJAB",
+      "order": 100,
+      "resultTime": "11:10 AM"
+    },
+    {
+      "id": "faridabad-super",
+      "name": "FARIDABAD SUPER",
+      "order": 101,
+      "resultTime": "08:30 PM"
+    },
+    {
+      "id": "ghaziabad-night",
+      "name": "GHAZIABAD NIGHT",
+      "order": 102,
+      "resultTime": "08:30 PM"
+    },
+    {
+      "id": "shri-kanak",
+      "name": "SHRI KANAK",
+      "order": 103,
+      "resultTime": "08:30 PM"
+    },
+    {
+      "id": "gold-bazar",
+      "name": "GOLD BAZAR",
+      "order": 104,
+      "resultTime": "08:35 PM"
+    },
+    {
+      "id": "gali-gold",
+      "name": "GALI GOLD",
+      "order": 105,
+      "resultTime": "08:45 PM"
+    },
+    {
+      "id": "shiv-dhanush",
+      "name": "SHIV DHANUSH",
+      "order": 106,
+      "resultTime": "08:55 PM"
+    },
+    {
+      "id": "rozana",
+      "name": "ROZANA",
+      "order": 107,
+      "resultTime": "09:00 PM"
+    },
+    {
+      "id": "bhagya-lakshmi",
+      "name": "BHAGYA LAKSHMI",
+      "order": 108,
+      "resultTime": "09:00 PM"
+    },
+    {
+      "id": "sai-darbar",
+      "name": "SAI DARBAR",
+      "order": 109,
+      "resultTime": "09:00 PM"
+    },
+    {
+      "id": "nepal",
+      "name": "NEPAL",
+      "order": 110,
+      "resultTime": "09:30 PM"
+    },
+    {
+      "id": "new-ghaziabad",
+      "name": "NEW GHAZIABAD",
+      "order": 111,
+      "resultTime": "09:45 PM"
+    },
+    {
+      "id": "ghaziabad",
+      "name": "GHAZIABAD",
+      "order": 112,
+      "resultTime": "09:55 PM"
+    },
+    {
+      "id": "delhi-matka-kings",
+      "name": "DELHI MATKA KINGS",
+      "order": 113,
+      "resultTime": "10:00 PM"
+    },
+    {
+      "id": "bala-ji-dadri",
+      "name": "BALA JI DADRI",
+      "order": 114,
+      "resultTime": "10:15 PM"
+    },
+    {
+      "id": "jaisalmer",
+      "name": "JAISALMER",
+      "order": 115,
+      "resultTime": "10:40 PM"
+    },
+    {
+      "id": "new-gali",
+      "name": "NEW GALI",
+      "order": 116,
+      "resultTime": "11:00 PM"
+    },
+    {
+      "id": "shalimar",
+      "name": "SHALIMAR",
+      "order": 117,
+      "resultTime": "11:00 PM"
+    },
+    {
+      "id": "delhi-evening",
+      "name": "DELHI EVENING",
+      "order": 118,
+      "resultTime": "11:10 PM"
+    },
+    {
+      "id": "gali",
+      "name": "GALI",
+      "order": 119,
+      "resultTime": "11:25 PM"
+    },
+    {
+      "id": "choti-gali",
+      "name": "CHOTI GALI",
+      "order": 120,
+      "resultTime": "11:50 PM"
+    }
+  ],
+  "months": [
+    "2015-01",
+    "2015-02",
+    "2015-03",
+    "2015-04",
+    "2015-05",
+    "2015-06",
+    "2015-07",
+    "2015-08",
+    "2015-09",
+    "2015-10",
+    "2015-11",
+    "2015-12",
+    "2016-01",
+    "2016-02",
+    "2016-03",
+    "2016-04",
+    "2016-05",
+    "2016-06",
+    "2016-07",
+    "2016-08",
+    "2016-09",
+    "2016-10",
+    "2016-11",
+    "2016-12",
+    "2017-01",
+    "2017-02",
+    "2017-03",
+    "2017-04",
+    "2017-05",
+    "2017-06",
+    "2017-07",
+    "2017-08",
+    "2017-09",
+    "2017-10",
+    "2017-11",
+    "2017-12",
+    "2018-01",
+    "2018-02",
+    "2018-03",
+    "2018-04",
+    "2018-05",
+    "2018-06",
+    "2018-07",
+    "2018-08",
+    "2018-09",
+    "2018-10",
+    "2018-11",
+    "2018-12",
+    "2019-01",
+    "2019-02",
+    "2019-03",
+    "2019-04",
+    "2019-05",
+    "2019-06",
+    "2019-07",
+    "2019-08",
+    "2019-09",
+    "2019-10",
+    "2019-11",
+    "2019-12",
+    "2020-01",
+    "2020-02",
+    "2020-03",
+    "2020-04",
+    "2020-05",
+    "2020-06",
+    "2020-07",
+    "2020-08",
+    "2020-09",
+    "2020-10",
+    "2020-11",
+    "2020-12",
+    "2021-01",
+    "2021-02",
+    "2021-03",
+    "2021-04",
+    "2021-05",
+    "2021-06",
+    "2021-07",
+    "2021-08",
+    "2021-09",
+    "2021-10",
+    "2021-11",
+    "2021-12",
+    "2022-01",
+    "2022-02",
+    "2022-03",
+    "2022-04",
+    "2022-05",
+    "2022-06",
+    "2022-07",
+    "2022-08",
+    "2022-09",
+    "2022-10",
+    "2022-11",
+    "2022-12",
+    "2023-01",
+    "2023-02",
+    "2023-03",
+    "2023-04",
+    "2023-05",
+    "2023-06",
+    "2023-07",
+    "2023-08",
+    "2023-09",
+    "2023-10",
+    "2023-11",
+    "2023-12",
+    "2024-01",
+    "2024-02",
+    "2024-03",
+    "2024-04",
+    "2024-05",
+    "2024-06",
+    "2024-07",
+    "2024-08",
+    "2024-09",
+    "2024-10",
+    "2024-11",
+    "2024-12",
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-08",
+    "2025-09",
+    "2025-10",
+    "2025-11",
+    "2025-12",
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06",
+    "2026-07",
+    "2026-08",
+    "2026-09",
+    "2026-10"
+  ],
+  "sourceUrl": "https://satta-king-fast.com/"
+}

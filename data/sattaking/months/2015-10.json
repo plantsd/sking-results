@@ -1,0 +1,1056 @@
+{
+  "schemaVersion": 1,
+  "month": "2015-10",
+  "results": [
+    {
+      "date": "2015-10-01",
+      "gameId": "mohali",
+      "value": "25"
+    },
+    {
+      "date": "2015-10-01",
+      "gameId": "faridabad",
+      "value": "07"
+    },
+    {
+      "date": "2015-10-01",
+      "gameId": "chandni-chowk-matka",
+      "value": "71"
+    },
+    {
+      "date": "2015-10-01",
+      "gameId": "new-ghaziabad",
+      "value": "60"
+    },
+    {
+      "date": "2015-10-01",
+      "gameId": "ghaziabad",
+      "value": "60"
+    },
+    {
+      "date": "2015-10-01",
+      "gameId": "gali",
+      "value": "33"
+    },
+    {
+      "date": "2015-10-02",
+      "gameId": "mohali",
+      "value": "98"
+    },
+    {
+      "date": "2015-10-02",
+      "gameId": "faridabad",
+      "value": "37"
+    },
+    {
+      "date": "2015-10-02",
+      "gameId": "desawar",
+      "value": "28"
+    },
+    {
+      "date": "2015-10-02",
+      "gameId": "chandni-chowk-matka",
+      "value": "28"
+    },
+    {
+      "date": "2015-10-02",
+      "gameId": "new-ghaziabad",
+      "value": "88"
+    },
+    {
+      "date": "2015-10-02",
+      "gameId": "ghaziabad",
+      "value": "88"
+    },
+    {
+      "date": "2015-10-02",
+      "gameId": "gali",
+      "value": "74"
+    },
+    {
+      "date": "2015-10-03",
+      "gameId": "mohali",
+      "value": "16"
+    },
+    {
+      "date": "2015-10-03",
+      "gameId": "faridabad",
+      "value": "56"
+    },
+    {
+      "date": "2015-10-03",
+      "gameId": "desawar",
+      "value": "71"
+    },
+    {
+      "date": "2015-10-03",
+      "gameId": "chandni-chowk-matka",
+      "value": "50"
+    },
+    {
+      "date": "2015-10-03",
+      "gameId": "new-ghaziabad",
+      "value": "20"
+    },
+    {
+      "date": "2015-10-03",
+      "gameId": "ghaziabad",
+      "value": "20"
+    },
+    {
+      "date": "2015-10-03",
+      "gameId": "gali",
+      "value": "81"
+    },
+    {
+      "date": "2015-10-04",
+      "gameId": "mohali",
+      "value": "48"
+    },
+    {
+      "date": "2015-10-04",
+      "gameId": "faridabad",
+      "value": "42"
+    },
+    {
+      "date": "2015-10-04",
+      "gameId": "desawar",
+      "value": "41"
+    },
+    {
+      "date": "2015-10-04",
+      "gameId": "chandni-chowk-matka",
+      "value": "12"
+    },
+    {
+      "date": "2015-10-04",
+      "gameId": "new-ghaziabad",
+      "value": "55"
+    },
+    {
+      "date": "2015-10-04",
+      "gameId": "ghaziabad",
+      "value": "55"
+    },
+    {
+      "date": "2015-10-04",
+      "gameId": "gali",
+      "value": "44"
+    },
+    {
+      "date": "2015-10-05",
+      "gameId": "mohali",
+      "value": "65"
+    },
+    {
+      "date": "2015-10-05",
+      "gameId": "faridabad",
+      "value": "42"
+    },
+    {
+      "date": "2015-10-05",
+      "gameId": "desawar",
+      "value": "35"
+    },
+    {
+      "date": "2015-10-05",
+      "gameId": "chandni-chowk-matka",
+      "value": "36"
+    },
+    {
+      "date": "2015-10-05",
+      "gameId": "new-ghaziabad",
+      "value": "86"
+    },
+    {
+      "date": "2015-10-05",
+      "gameId": "ghaziabad",
+      "value": "86"
+    },
+    {
+      "date": "2015-10-05",
+      "gameId": "gali",
+      "value": "58"
+    },
+    {
+      "date": "2015-10-06",
+      "gameId": "mohali",
+      "value": "46"
+    },
+    {
+      "date": "2015-10-06",
+      "gameId": "faridabad",
+      "value": "37"
+    },
+    {
+      "date": "2015-10-06",
+      "gameId": "desawar",
+      "value": "25"
+    },
+    {
+      "date": "2015-10-06",
+      "gameId": "chandni-chowk-matka",
+      "value": "65"
+    },
+    {
+      "date": "2015-10-06",
+      "gameId": "new-ghaziabad",
+      "value": "68"
+    },
+    {
+      "date": "2015-10-06",
+      "gameId": "ghaziabad",
+      "value": "68"
+    },
+    {
+      "date": "2015-10-06",
+      "gameId": "gali",
+      "value": "94"
+    },
+    {
+      "date": "2015-10-07",
+      "gameId": "mohali",
+      "value": "49"
+    },
+    {
+      "date": "2015-10-07",
+      "gameId": "faridabad",
+      "value": "48"
+    },
+    {
+      "date": "2015-10-07",
+      "gameId": "desawar",
+      "value": "81"
+    },
+    {
+      "date": "2015-10-07",
+      "gameId": "chandni-chowk-matka",
+      "value": "82"
+    },
+    {
+      "date": "2015-10-07",
+      "gameId": "new-ghaziabad",
+      "value": "82"
+    },
+    {
+      "date": "2015-10-07",
+      "gameId": "ghaziabad",
+      "value": "82"
+    },
+    {
+      "date": "2015-10-07",
+      "gameId": "gali",
+      "value": "43"
+    },
+    {
+      "date": "2015-10-08",
+      "gameId": "mohali",
+      "value": "65"
+    },
+    {
+      "date": "2015-10-08",
+      "gameId": "faridabad",
+      "value": "80"
+    },
+    {
+      "date": "2015-10-08",
+      "gameId": "desawar",
+      "value": "48"
+    },
+    {
+      "date": "2015-10-08",
+      "gameId": "chandni-chowk-matka",
+      "value": "08"
+    },
+    {
+      "date": "2015-10-08",
+      "gameId": "new-ghaziabad",
+      "value": "59"
+    },
+    {
+      "date": "2015-10-08",
+      "gameId": "ghaziabad",
+      "value": "59"
+    },
+    {
+      "date": "2015-10-08",
+      "gameId": "gali",
+      "value": "61"
+    },
+    {
+      "date": "2015-10-09",
+      "gameId": "mohali",
+      "value": "28"
+    },
+    {
+      "date": "2015-10-09",
+      "gameId": "faridabad",
+      "value": "85"
+    },
+    {
+      "date": "2015-10-09",
+      "gameId": "desawar",
+      "value": "02"
+    },
+    {
+      "date": "2015-10-09",
+      "gameId": "chandni-chowk-matka",
+      "value": "16"
+    },
+    {
+      "date": "2015-10-09",
+      "gameId": "new-ghaziabad",
+      "value": "28"
+    },
+    {
+      "date": "2015-10-09",
+      "gameId": "ghaziabad",
+      "value": "28"
+    },
+    {
+      "date": "2015-10-09",
+      "gameId": "gali",
+      "value": "68"
+    },
+    {
+      "date": "2015-10-10",
+      "gameId": "mohali",
+      "value": "24"
+    },
+    {
+      "date": "2015-10-10",
+      "gameId": "faridabad",
+      "value": "95"
+    },
+    {
+      "date": "2015-10-10",
+      "gameId": "desawar",
+      "value": "41"
+    },
+    {
+      "date": "2015-10-10",
+      "gameId": "chandni-chowk-matka",
+      "value": "59"
+    },
+    {
+      "date": "2015-10-10",
+      "gameId": "new-ghaziabad",
+      "value": "58"
+    },
+    {
+      "date": "2015-10-10",
+      "gameId": "ghaziabad",
+      "value": "58"
+    },
+    {
+      "date": "2015-10-10",
+      "gameId": "gali",
+      "value": "60"
+    },
+    {
+      "date": "2015-10-11",
+      "gameId": "mohali",
+      "value": "16"
+    },
+    {
+      "date": "2015-10-11",
+      "gameId": "faridabad",
+      "value": "39"
+    },
+    {
+      "date": "2015-10-11",
+      "gameId": "desawar",
+      "value": "18"
+    },
+    {
+      "date": "2015-10-11",
+      "gameId": "chandni-chowk-matka",
+      "value": "36"
+    },
+    {
+      "date": "2015-10-11",
+      "gameId": "new-ghaziabad",
+      "value": "56"
+    },
+    {
+      "date": "2015-10-11",
+      "gameId": "ghaziabad",
+      "value": "56"
+    },
+    {
+      "date": "2015-10-11",
+      "gameId": "gali",
+      "value": "77"
+    },
+    {
+      "date": "2015-10-12",
+      "gameId": "mohali",
+      "value": "39"
+    },
+    {
+      "date": "2015-10-12",
+      "gameId": "faridabad",
+      "value": "31"
+    },
+    {
+      "date": "2015-10-12",
+      "gameId": "desawar",
+      "value": "09"
+    },
+    {
+      "date": "2015-10-12",
+      "gameId": "chandni-chowk-matka",
+      "value": "09"
+    },
+    {
+      "date": "2015-10-12",
+      "gameId": "new-ghaziabad",
+      "value": "16"
+    },
+    {
+      "date": "2015-10-12",
+      "gameId": "ghaziabad",
+      "value": "16"
+    },
+    {
+      "date": "2015-10-12",
+      "gameId": "gali",
+      "value": "10"
+    },
+    {
+      "date": "2015-10-13",
+      "gameId": "mohali",
+      "value": "57"
+    },
+    {
+      "date": "2015-10-13",
+      "gameId": "faridabad",
+      "value": "76"
+    },
+    {
+      "date": "2015-10-13",
+      "gameId": "desawar",
+      "value": "02"
+    },
+    {
+      "date": "2015-10-13",
+      "gameId": "chandni-chowk-matka",
+      "value": "32"
+    },
+    {
+      "date": "2015-10-13",
+      "gameId": "new-ghaziabad",
+      "value": "35"
+    },
+    {
+      "date": "2015-10-13",
+      "gameId": "ghaziabad",
+      "value": "35"
+    },
+    {
+      "date": "2015-10-13",
+      "gameId": "gali",
+      "value": "67"
+    },
+    {
+      "date": "2015-10-14",
+      "gameId": "mohali",
+      "value": "40"
+    },
+    {
+      "date": "2015-10-14",
+      "gameId": "faridabad",
+      "value": "97"
+    },
+    {
+      "date": "2015-10-14",
+      "gameId": "desawar",
+      "value": "32"
+    },
+    {
+      "date": "2015-10-14",
+      "gameId": "chandni-chowk-matka",
+      "value": "94"
+    },
+    {
+      "date": "2015-10-14",
+      "gameId": "new-ghaziabad",
+      "value": "26"
+    },
+    {
+      "date": "2015-10-14",
+      "gameId": "ghaziabad",
+      "value": "26"
+    },
+    {
+      "date": "2015-10-14",
+      "gameId": "gali",
+      "value": "97"
+    },
+    {
+      "date": "2015-10-15",
+      "gameId": "mohali",
+      "value": "36"
+    },
+    {
+      "date": "2015-10-15",
+      "gameId": "faridabad",
+      "value": "31"
+    },
+    {
+      "date": "2015-10-15",
+      "gameId": "desawar",
+      "value": "06"
+    },
+    {
+      "date": "2015-10-15",
+      "gameId": "chandni-chowk-matka",
+      "value": "14"
+    },
+    {
+      "date": "2015-10-15",
+      "gameId": "new-ghaziabad",
+      "value": "14"
+    },
+    {
+      "date": "2015-10-15",
+      "gameId": "ghaziabad",
+      "value": "14"
+    },
+    {
+      "date": "2015-10-15",
+      "gameId": "gali",
+      "value": "73"
+    },
+    {
+      "date": "2015-10-16",
+      "gameId": "mohali",
+      "value": "79"
+    },
+    {
+      "date": "2015-10-16",
+      "gameId": "faridabad",
+      "value": "30"
+    },
+    {
+      "date": "2015-10-16",
+      "gameId": "desawar",
+      "value": "74"
+    },
+    {
+      "date": "2015-10-16",
+      "gameId": "chandni-chowk-matka",
+      "value": "48"
+    },
+    {
+      "date": "2015-10-16",
+      "gameId": "new-ghaziabad",
+      "value": "50"
+    },
+    {
+      "date": "2015-10-16",
+      "gameId": "ghaziabad",
+      "value": "50"
+    },
+    {
+      "date": "2015-10-16",
+      "gameId": "gali",
+      "value": "44"
+    },
+    {
+      "date": "2015-10-17",
+      "gameId": "mohali",
+      "value": "80"
+    },
+    {
+      "date": "2015-10-17",
+      "gameId": "faridabad",
+      "value": "56"
+    },
+    {
+      "date": "2015-10-17",
+      "gameId": "desawar",
+      "value": "61"
+    },
+    {
+      "date": "2015-10-17",
+      "gameId": "chandni-chowk-matka",
+      "value": "65"
+    },
+    {
+      "date": "2015-10-17",
+      "gameId": "new-ghaziabad",
+      "value": "40"
+    },
+    {
+      "date": "2015-10-17",
+      "gameId": "ghaziabad",
+      "value": "40"
+    },
+    {
+      "date": "2015-10-17",
+      "gameId": "gali",
+      "value": "61"
+    },
+    {
+      "date": "2015-10-18",
+      "gameId": "mohali",
+      "value": "12"
+    },
+    {
+      "date": "2015-10-18",
+      "gameId": "faridabad",
+      "value": "83"
+    },
+    {
+      "date": "2015-10-18",
+      "gameId": "desawar",
+      "value": "12"
+    },
+    {
+      "date": "2015-10-18",
+      "gameId": "chandni-chowk-matka",
+      "value": "57"
+    },
+    {
+      "date": "2015-10-18",
+      "gameId": "new-ghaziabad",
+      "value": "02"
+    },
+    {
+      "date": "2015-10-18",
+      "gameId": "ghaziabad",
+      "value": "02"
+    },
+    {
+      "date": "2015-10-18",
+      "gameId": "gali",
+      "value": "87"
+    },
+    {
+      "date": "2015-10-19",
+      "gameId": "mohali",
+      "value": "39"
+    },
+    {
+      "date": "2015-10-19",
+      "gameId": "faridabad",
+      "value": "20"
+    },
+    {
+      "date": "2015-10-19",
+      "gameId": "desawar",
+      "value": "54"
+    },
+    {
+      "date": "2015-10-19",
+      "gameId": "chandni-chowk-matka",
+      "value": "03"
+    },
+    {
+      "date": "2015-10-19",
+      "gameId": "new-ghaziabad",
+      "value": "80"
+    },
+    {
+      "date": "2015-10-19",
+      "gameId": "ghaziabad",
+      "value": "80"
+    },
+    {
+      "date": "2015-10-19",
+      "gameId": "gali",
+      "value": "85"
+    },
+    {
+      "date": "2015-10-20",
+      "gameId": "mohali",
+      "value": "46"
+    },
+    {
+      "date": "2015-10-20",
+      "gameId": "faridabad",
+      "value": "40"
+    },
+    {
+      "date": "2015-10-20",
+      "gameId": "desawar",
+      "value": "96"
+    },
+    {
+      "date": "2015-10-20",
+      "gameId": "chandni-chowk-matka",
+      "value": "03"
+    },
+    {
+      "date": "2015-10-20",
+      "gameId": "new-ghaziabad",
+      "value": "30"
+    },
+    {
+      "date": "2015-10-20",
+      "gameId": "ghaziabad",
+      "value": "30"
+    },
+    {
+      "date": "2015-10-20",
+      "gameId": "gali",
+      "value": "87"
+    },
+    {
+      "date": "2015-10-21",
+      "gameId": "mohali",
+      "value": "57"
+    },
+    {
+      "date": "2015-10-21",
+      "gameId": "faridabad",
+      "value": "21"
+    },
+    {
+      "date": "2015-10-21",
+      "gameId": "desawar",
+      "value": "64"
+    },
+    {
+      "date": "2015-10-21",
+      "gameId": "chandni-chowk-matka",
+      "value": "82"
+    },
+    {
+      "date": "2015-10-21",
+      "gameId": "new-ghaziabad",
+      "value": "76"
+    },
+    {
+      "date": "2015-10-21",
+      "gameId": "ghaziabad",
+      "value": "76"
+    },
+    {
+      "date": "2015-10-21",
+      "gameId": "gali",
+      "value": "85"
+    },
+    {
+      "date": "2015-10-22",
+      "gameId": "mohali",
+      "value": "08"
+    },
+    {
+      "date": "2015-10-22",
+      "gameId": "faridabad",
+      "value": "27"
+    },
+    {
+      "date": "2015-10-22",
+      "gameId": "desawar",
+      "value": "45"
+    },
+    {
+      "date": "2015-10-22",
+      "gameId": "chandni-chowk-matka",
+      "value": "72"
+    },
+    {
+      "date": "2015-10-22",
+      "gameId": "new-ghaziabad",
+      "value": "30"
+    },
+    {
+      "date": "2015-10-22",
+      "gameId": "ghaziabad",
+      "value": "30"
+    },
+    {
+      "date": "2015-10-22",
+      "gameId": "gali",
+      "value": "79"
+    },
+    {
+      "date": "2015-10-23",
+      "gameId": "mohali",
+      "value": "26"
+    },
+    {
+      "date": "2015-10-23",
+      "gameId": "faridabad",
+      "value": "62"
+    },
+    {
+      "date": "2015-10-23",
+      "gameId": "desawar",
+      "value": "43"
+    },
+    {
+      "date": "2015-10-23",
+      "gameId": "chandni-chowk-matka",
+      "value": "51"
+    },
+    {
+      "date": "2015-10-23",
+      "gameId": "new-ghaziabad",
+      "value": "48"
+    },
+    {
+      "date": "2015-10-23",
+      "gameId": "ghaziabad",
+      "value": "48"
+    },
+    {
+      "date": "2015-10-23",
+      "gameId": "gali",
+      "value": "54"
+    },
+    {
+      "date": "2015-10-24",
+      "gameId": "mohali",
+      "value": "06"
+    },
+    {
+      "date": "2015-10-24",
+      "gameId": "faridabad",
+      "value": "06"
+    },
+    {
+      "date": "2015-10-24",
+      "gameId": "desawar",
+      "value": "69"
+    },
+    {
+      "date": "2015-10-24",
+      "gameId": "chandni-chowk-matka",
+      "value": "74"
+    },
+    {
+      "date": "2015-10-24",
+      "gameId": "new-ghaziabad",
+      "value": "99"
+    },
+    {
+      "date": "2015-10-24",
+      "gameId": "ghaziabad",
+      "value": "99"
+    },
+    {
+      "date": "2015-10-24",
+      "gameId": "gali",
+      "value": "82"
+    },
+    {
+      "date": "2015-10-25",
+      "gameId": "mohali",
+      "value": "70"
+    },
+    {
+      "date": "2015-10-25",
+      "gameId": "faridabad",
+      "value": "22"
+    },
+    {
+      "date": "2015-10-25",
+      "gameId": "desawar",
+      "value": "68"
+    },
+    {
+      "date": "2015-10-25",
+      "gameId": "chandni-chowk-matka",
+      "value": "30"
+    },
+    {
+      "date": "2015-10-25",
+      "gameId": "new-ghaziabad",
+      "value": "42"
+    },
+    {
+      "date": "2015-10-25",
+      "gameId": "ghaziabad",
+      "value": "42"
+    },
+    {
+      "date": "2015-10-25",
+      "gameId": "gali",
+      "value": "79"
+    },
+    {
+      "date": "2015-10-26",
+      "gameId": "mohali",
+      "value": "96"
+    },
+    {
+      "date": "2015-10-26",
+      "gameId": "faridabad",
+      "value": "33"
+    },
+    {
+      "date": "2015-10-26",
+      "gameId": "desawar",
+      "value": "49"
+    },
+    {
+      "date": "2015-10-26",
+      "gameId": "chandni-chowk-matka",
+      "value": "46"
+    },
+    {
+      "date": "2015-10-26",
+      "gameId": "new-ghaziabad",
+      "value": "21"
+    },
+    {
+      "date": "2015-10-26",
+      "gameId": "ghaziabad",
+      "value": "21"
+    },
+    {
+      "date": "2015-10-26",
+      "gameId": "gali",
+      "value": "91"
+    },
+    {
+      "date": "2015-10-27",
+      "gameId": "mohali",
+      "value": "52"
+    },
+    {
+      "date": "2015-10-27",
+      "gameId": "faridabad",
+      "value": "47"
+    },
+    {
+      "date": "2015-10-27",
+      "gameId": "desawar",
+      "value": "76"
+    },
+    {
+      "date": "2015-10-27",
+      "gameId": "chandni-chowk-matka",
+      "value": "40"
+    },
+    {
+      "date": "2015-10-27",
+      "gameId": "new-ghaziabad",
+      "value": "50"
+    },
+    {
+      "date": "2015-10-27",
+      "gameId": "ghaziabad",
+      "value": "50"
+    },
+    {
+      "date": "2015-10-27",
+      "gameId": "gali",
+      "value": "43"
+    },
+    {
+      "date": "2015-10-28",
+      "gameId": "mohali",
+      "value": "64"
+    },
+    {
+      "date": "2015-10-28",
+      "gameId": "faridabad",
+      "value": "02"
+    },
+    {
+      "date": "2015-10-28",
+      "gameId": "desawar",
+      "value": "42"
+    },
+    {
+      "date": "2015-10-28",
+      "gameId": "chandni-chowk-matka",
+      "value": "29"
+    },
+    {
+      "date": "2015-10-28",
+      "gameId": "new-ghaziabad",
+      "value": "91"
+    },
+    {
+      "date": "2015-10-28",
+      "gameId": "ghaziabad",
+      "value": "91"
+    },
+    {
+      "date": "2015-10-28",
+      "gameId": "gali",
+      "value": "22"
+    },
+    {
+      "date": "2015-10-29",
+      "gameId": "mohali",
+      "value": "86"
+    },
+    {
+      "date": "2015-10-29",
+      "gameId": "faridabad",
+      "value": "93"
+    },
+    {
+      "date": "2015-10-29",
+      "gameId": "desawar",
+      "value": "09"
+    },
+    {
+      "date": "2015-10-29",
+      "gameId": "chandni-chowk-matka",
+      "value": "65"
+    },
+    {
+      "date": "2015-10-29",
+      "gameId": "new-ghaziabad",
+      "value": "16"
+    },
+    {
+      "date": "2015-10-29",
+      "gameId": "ghaziabad",
+      "value": "16"
+    },
+    {
+      "date": "2015-10-29",
+      "gameId": "gali",
+      "value": "66"
+    },
+    {
+      "date": "2015-10-30",
+      "gameId": "mohali",
+      "value": "32"
+    },
+    {
+      "date": "2015-10-30",
+      "gameId": "faridabad",
+      "value": "51"
+    },
+    {
+      "date": "2015-10-30",
+      "gameId": "desawar",
+      "value": "24"
+    },
+    {
+      "date": "2015-10-30",
+      "gameId": "chandni-chowk-matka",
+      "value": "52"
+    },
+    {
+      "date": "2015-10-30",
+      "gameId": "new-ghaziabad",
+      "value": "91"
+    },
+    {
+      "date": "2015-10-30",
+      "gameId": "ghaziabad",
+      "value": "91"
+    },
+    {
+      "date": "2015-10-30",
+      "gameId": "gali",
+      "value": "15"
+    },
+    {
+      "date": "2015-10-31",
+      "gameId": "desawar",
+      "value": "81"
+    }
+  ]
+}
