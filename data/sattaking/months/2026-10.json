@@ -3501,6 +3501,21 @@
       "date": "2026-10-06",
       "gameId": "nepal",
       "value": "01"
+    },
+    {
+      "date": "2026-10-06",
+      "gameId": "new-ghaziabad",
+      "value": "59"
+    },
+    {
+      "date": "2026-10-06",
+      "gameId": "ghaziabad",
+      "value": "38"
+    },
+    {
+      "date": "2026-10-06",
+      "gameId": "delhi-matka-kings",
+      "value": "10"
     }
   ]
 }
