@@ -3459,6 +3459,11 @@
     },
     {
       "date": "2026-10-06",
+      "gameId": "ghaziabad-night",
+      "value": "18"
+    },
+    {
+      "date": "2026-10-06",
       "gameId": "shri-kanak",
       "value": "16"
     },
@@ -3486,6 +3491,16 @@
       "date": "2026-10-06",
       "gameId": "bhagya-lakshmi",
       "value": "27"
+    },
+    {
+      "date": "2026-10-06",
+      "gameId": "sai-darbar",
+      "value": "79"
+    },
+    {
+      "date": "2026-10-06",
+      "gameId": "nepal",
+      "value": "01"
     }
   ]
 }
