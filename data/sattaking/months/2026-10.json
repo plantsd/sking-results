@@ -3529,6 +3529,11 @@
     },
     {
       "date": "2026-10-06",
+      "gameId": "new-gali",
+      "value": "94"
+    },
+    {
+      "date": "2026-10-06",
       "gameId": "shalimar",
       "value": "90"
     },
