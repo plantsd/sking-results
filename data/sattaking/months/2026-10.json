@@ -3254,6 +3254,26 @@
     },
     {
       "date": "2026-10-06",
+      "gameId": "old-city",
+      "value": "73"
+    },
+    {
+      "date": "2026-10-06",
+      "gameId": "neelkanth",
+      "value": "22"
+    },
+    {
+      "date": "2026-10-06",
+      "gameId": "mini-desawer",
+      "value": "53"
+    },
+    {
+      "date": "2026-10-06",
+      "gameId": "gurgaon",
+      "value": "21"
+    },
+    {
+      "date": "2026-10-06",
       "gameId": "noida-king",
       "value": "88"
     },
