@@ -3264,6 +3264,11 @@
     },
     {
       "date": "2026-10-06",
+      "gameId": "shri-laxmi",
+      "value": "71"
+    },
+    {
+      "date": "2026-10-06",
       "gameId": "mini-desawer",
       "value": "53"
     },
@@ -3271,6 +3276,11 @@
       "date": "2026-10-06",
       "gameId": "gurgaon",
       "value": "21"
+    },
+    {
+      "date": "2026-10-06",
+      "gameId": "veera-king",
+      "value": "48"
     },
     {
       "date": "2026-10-06",
@@ -3309,6 +3319,11 @@
     },
     {
       "date": "2026-10-06",
+      "gameId": "shiv-shankar",
+      "value": "19"
+    },
+    {
+      "date": "2026-10-06",
       "gameId": "bharat",
       "value": "98"
     },
@@ -3321,6 +3336,11 @@
       "date": "2026-10-06",
       "gameId": "gali-bazar",
       "value": "72"
+    },
+    {
+      "date": "2026-10-06",
+      "gameId": "bangalore",
+      "value": "10"
     },
     {
       "date": "2026-10-06",
@@ -3346,6 +3366,46 @@
       "date": "2026-10-06",
       "gameId": "om-namah-shivaye",
       "value": "71"
+    },
+    {
+      "date": "2026-10-06",
+      "gameId": "gali-disawar-mix",
+      "value": "72"
+    },
+    {
+      "date": "2026-10-06",
+      "gameId": "maa-lakshmi-delhi",
+      "value": "82"
+    },
+    {
+      "date": "2026-10-06",
+      "gameId": "up-bazar",
+      "value": "04"
+    },
+    {
+      "date": "2026-10-06",
+      "gameId": "hindustan",
+      "value": "93"
+    },
+    {
+      "date": "2026-10-06",
+      "gameId": "bombay-super",
+      "value": "84"
+    },
+    {
+      "date": "2026-10-06",
+      "gameId": "delhi-king",
+      "value": "56"
+    },
+    {
+      "date": "2026-10-06",
+      "gameId": "moti-city",
+      "value": "90"
+    },
+    {
+      "date": "2026-10-06",
+      "gameId": "shivraj-786",
+      "value": "93"
     },
     {
       "date": "2026-10-06",
@@ -3386,6 +3446,16 @@
       "date": "2026-10-06",
       "gameId": "new-punjab",
       "value": "16"
+    },
+    {
+      "date": "2026-10-06",
+      "gameId": "shri-kanak",
+      "value": "16"
+    },
+    {
+      "date": "2026-10-06",
+      "gameId": "gold-bazar",
+      "value": "94"
     }
   ]
 }
