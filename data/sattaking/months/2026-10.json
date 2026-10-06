@@ -3184,8 +3184,28 @@
     },
     {
       "date": "2026-10-06",
+      "gameId": "shri-ganesh",
+      "value": "27"
+    },
+    {
+      "date": "2026-10-06",
+      "gameId": "ghaziabad-din",
+      "value": "01"
+    },
+    {
+      "date": "2026-10-06",
       "gameId": "shri-nagar",
       "value": "82"
+    },
+    {
+      "date": "2026-10-06",
+      "gameId": "vip-king",
+      "value": "82"
+    },
+    {
+      "date": "2026-10-06",
+      "gameId": "mahalaxmi-bazar",
+      "value": "09"
     },
     {
       "date": "2026-10-06",
