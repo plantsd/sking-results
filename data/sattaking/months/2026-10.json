@@ -3654,8 +3654,43 @@
     },
     {
       "date": "2026-10-07",
+      "gameId": "super-delhi",
+      "value": "62"
+    },
+    {
+      "date": "2026-10-07",
       "gameId": "delhi-city",
       "value": "84"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "deep-sagar",
+      "value": "29"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "delhi-dream",
+      "value": "17"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "super-taj",
+      "value": "15"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "meerut-metro",
+      "value": "02"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "mohali",
+      "value": "32"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "royal-challenge",
+      "value": "04"
     },
     {
       "date": "2026-10-07",
