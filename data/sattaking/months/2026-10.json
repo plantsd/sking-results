@@ -3554,6 +3554,16 @@
     },
     {
       "date": "2026-10-07",
+      "gameId": "royal-bazar",
+      "value": "26"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "gaj-kesri",
+      "value": "80"
+    },
+    {
+      "date": "2026-10-07",
       "gameId": "noida-king",
       "value": "97"
     },
