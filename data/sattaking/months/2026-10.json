@@ -3849,6 +3849,11 @@
     },
     {
       "date": "2026-10-07",
+      "gameId": "shri-laxmi",
+      "value": "94"
+    },
+    {
+      "date": "2026-10-07",
       "gameId": "mini-desawer",
       "value": "97"
     },
@@ -3861,6 +3866,11 @@
       "date": "2026-10-07",
       "gameId": "paras",
       "value": "96"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "farida-bazar",
+      "value": "11"
     },
     {
       "date": "2026-10-07",
@@ -3939,6 +3949,46 @@
     },
     {
       "date": "2026-10-07",
+      "gameId": "gali-disawar-mix",
+      "value": "95"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "maa-lakshmi-delhi",
+      "value": "92"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "up-bazar",
+      "value": "79"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "hindustan",
+      "value": "36"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "bombay-super",
+      "value": "92"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "delhi-king",
+      "value": "20"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "moti-city",
+      "value": "00"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "shivraj-786",
+      "value": "83"
+    },
+    {
+      "date": "2026-10-07",
       "gameId": "noida-king",
       "value": "97"
     },
@@ -3971,6 +4021,26 @@
       "date": "2026-10-07",
       "gameId": "new-punjab",
       "value": "15"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "faridabad-super",
+      "value": "85"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "shri-kanak",
+      "value": "02"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "gold-bazar",
+      "value": "83"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "gali-gold",
+      "value": "75"
     }
   ]
 }
