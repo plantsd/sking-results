@@ -3999,6 +3999,11 @@
     },
     {
       "date": "2026-10-07",
+      "gameId": "bikaner-super",
+      "value": "27"
+    },
+    {
+      "date": "2026-10-07",
       "gameId": "desawar",
       "value": "23"
     },
@@ -4121,6 +4126,11 @@
       "date": "2026-10-07",
       "gameId": "gali",
       "value": "29"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "choti-gali",
+      "value": "58"
     }
   ]
 }
