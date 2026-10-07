@@ -3789,8 +3789,23 @@
     },
     {
       "date": "2026-10-07",
+      "gameId": "ds-number-1",
+      "value": "16"
+    },
+    {
+      "date": "2026-10-07",
       "gameId": "mahalaxmi-bazar",
       "value": "91"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "ahmedabad",
+      "value": "42"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "maharaj",
+      "value": "54"
     },
     {
       "date": "2026-10-07",
