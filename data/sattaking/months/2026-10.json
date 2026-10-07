@@ -3556,6 +3556,21 @@
       "date": "2026-10-07",
       "gameId": "noida-king",
       "value": "97"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "desawar",
+      "value": "23"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "chotta-bazar",
+      "value": "35"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "africa-disawar-morning",
+      "value": "XX"
     }
   ]
 }
