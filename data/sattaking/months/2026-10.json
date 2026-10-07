@@ -3694,6 +3694,11 @@
     },
     {
       "date": "2026-10-07",
+      "gameId": "meerut-city",
+      "value": "28"
+    },
+    {
+      "date": "2026-10-07",
       "gameId": "new-taj",
       "value": "68"
     },
@@ -3731,6 +3736,31 @@
       "date": "2026-10-07",
       "gameId": "maa-bhagwati",
       "value": "76"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "anarkali",
+      "value": "41"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "dubai-delhi",
+      "value": "23"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "chand-tara",
+      "value": "68"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "super-savera",
+      "value": "35"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "shiv-shakti",
+      "value": "54"
     },
     {
       "date": "2026-10-07",
