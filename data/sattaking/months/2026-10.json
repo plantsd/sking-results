@@ -3576,6 +3576,11 @@
       "date": "2026-10-07",
       "gameId": "new-delhi-darbar",
       "value": "02"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "chandni-chowk-matka",
+      "value": "55"
     }
   ]
 }
