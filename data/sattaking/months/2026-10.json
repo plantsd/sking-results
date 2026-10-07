@@ -3859,6 +3859,86 @@
     },
     {
       "date": "2026-10-07",
+      "gameId": "paras",
+      "value": "96"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "vip-agra",
+      "value": "35"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "delhi-golden",
+      "value": "35"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "dhan-kuber",
+      "value": "62"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "bhavishyavani",
+      "value": "00"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "shri-ji",
+      "value": "69"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "shiv-shankar",
+      "value": "35"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "bharat",
+      "value": "83"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "nagpur",
+      "value": "51"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "gali-bazar",
+      "value": "68"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "bangalore",
+      "value": "88"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "punjab-laxmi",
+      "value": "98"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "badshah",
+      "value": "75"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "mahakal",
+      "value": "88"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "mg-prime",
+      "value": "89"
+    },
+    {
+      "date": "2026-10-07",
+      "gameId": "om-namah-shivaye",
+      "value": "14"
+    },
+    {
+      "date": "2026-10-07",
       "gameId": "noida-king",
       "value": "97"
     },
