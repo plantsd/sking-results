@@ -4674,8 +4674,18 @@
     },
     {
       "date": "2026-10-08",
+      "gameId": "new-gali",
+      "value": "42"
+    },
+    {
+      "date": "2026-10-08",
       "gameId": "shalimar",
       "value": "15"
+    },
+    {
+      "date": "2026-10-08",
+      "gameId": "delhi-evening",
+      "value": "63"
     }
   ]
 }
