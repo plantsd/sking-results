@@ -4224,13 +4224,53 @@
     },
     {
       "date": "2026-10-08",
+      "gameId": "kalka-bazar",
+      "value": "01"
+    },
+    {
+      "date": "2026-10-08",
+      "gameId": "savera",
+      "value": "90"
+    },
+    {
+      "date": "2026-10-08",
+      "gameId": "super-delhi",
+      "value": "03"
+    },
+    {
+      "date": "2026-10-08",
       "gameId": "delhi-city",
       "value": "65"
     },
     {
       "date": "2026-10-08",
+      "gameId": "deep-sagar",
+      "value": "89"
+    },
+    {
+      "date": "2026-10-08",
+      "gameId": "delhi-dream",
+      "value": "79"
+    },
+    {
+      "date": "2026-10-08",
       "gameId": "super-taj",
       "value": "93"
+    },
+    {
+      "date": "2026-10-08",
+      "gameId": "meerut-metro",
+      "value": "72"
+    },
+    {
+      "date": "2026-10-08",
+      "gameId": "meerut-city",
+      "value": "16"
+    },
+    {
+      "date": "2026-10-08",
+      "gameId": "royal-challenge",
+      "value": "47"
     },
     {
       "date": "2026-10-08",
