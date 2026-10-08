@@ -4454,6 +4454,11 @@
     },
     {
       "date": "2026-10-08",
+      "gameId": "farida-bazar",
+      "value": "04"
+    },
+    {
+      "date": "2026-10-08",
       "gameId": "vip-agra",
       "value": "72"
     },
@@ -4599,8 +4604,38 @@
     },
     {
       "date": "2026-10-08",
+      "gameId": "faridabad-super",
+      "value": "66"
+    },
+    {
+      "date": "2026-10-08",
       "gameId": "shri-kanak",
       "value": "42"
+    },
+    {
+      "date": "2026-10-08",
+      "gameId": "gold-bazar",
+      "value": "14"
+    },
+    {
+      "date": "2026-10-08",
+      "gameId": "gali-gold",
+      "value": "61"
+    },
+    {
+      "date": "2026-10-08",
+      "gameId": "shiv-dhanush",
+      "value": "13"
+    },
+    {
+      "date": "2026-10-08",
+      "gameId": "rozana",
+      "value": "23"
+    },
+    {
+      "date": "2026-10-08",
+      "gameId": "bhagya-lakshmi",
+      "value": "76"
     }
   ]
 }
