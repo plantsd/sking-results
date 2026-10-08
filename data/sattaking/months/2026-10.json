@@ -4141,6 +4141,16 @@
       "date": "2026-10-08",
       "gameId": "bikaner-super",
       "value": "14"
+    },
+    {
+      "date": "2026-10-08",
+      "gameId": "desawar",
+      "value": "90"
+    },
+    {
+      "date": "2026-10-08",
+      "gameId": "chotta-bazar",
+      "value": "06"
     }
   ]
 }
