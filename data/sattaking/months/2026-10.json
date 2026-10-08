@@ -4354,6 +4354,11 @@
     },
     {
       "date": "2026-10-08",
+      "gameId": "ghaziabad-din",
+      "value": "53"
+    },
+    {
+      "date": "2026-10-08",
       "gameId": "shri-nagar",
       "value": "29"
     },
@@ -4371,6 +4376,16 @@
       "date": "2026-10-08",
       "gameId": "mahalaxmi-bazar",
       "value": "00"
+    },
+    {
+      "date": "2026-10-08",
+      "gameId": "ahmedabad",
+      "value": "58"
+    },
+    {
+      "date": "2026-10-08",
+      "gameId": "maharaj",
+      "value": "86"
     },
     {
       "date": "2026-10-08",
