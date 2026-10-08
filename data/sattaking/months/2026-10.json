@@ -4156,6 +4156,11 @@
       "date": "2026-10-08",
       "gameId": "new-delhi-darbar",
       "value": "01"
+    },
+    {
+      "date": "2026-10-08",
+      "gameId": "new-punjab",
+      "value": "08"
     }
   ]
 }
