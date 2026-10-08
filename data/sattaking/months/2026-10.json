@@ -4319,6 +4319,26 @@
     },
     {
       "date": "2026-10-08",
+      "gameId": "chand-tara",
+      "value": "25"
+    },
+    {
+      "date": "2026-10-08",
+      "gameId": "udaan-king",
+      "value": "42"
+    },
+    {
+      "date": "2026-10-08",
+      "gameId": "super-savera",
+      "value": "61"
+    },
+    {
+      "date": "2026-10-08",
+      "gameId": "shiv-shakti",
+      "value": "74"
+    },
+    {
+      "date": "2026-10-08",
       "gameId": "noida-king",
       "value": "45"
     },
