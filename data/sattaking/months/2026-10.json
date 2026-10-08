@@ -4651,6 +4651,16 @@
       "date": "2026-10-08",
       "gameId": "nepal",
       "value": "92"
+    },
+    {
+      "date": "2026-10-08",
+      "gameId": "new-ghaziabad",
+      "value": "03"
+    },
+    {
+      "date": "2026-10-08",
+      "gameId": "ghaziabad",
+      "value": "74"
     }
   ]
 }
