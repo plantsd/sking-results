@@ -4704,6 +4704,16 @@
     },
     {
       "date": "2026-10-09",
+      "gameId": "royal-bazar",
+      "value": "99"
+    },
+    {
+      "date": "2026-10-09",
+      "gameId": "gaj-kesri",
+      "value": "65"
+    },
+    {
+      "date": "2026-10-09",
       "gameId": "noida-king",
       "value": "19"
     },
