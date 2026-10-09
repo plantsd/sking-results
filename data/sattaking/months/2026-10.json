@@ -5145,7 +5145,7 @@
     {
       "date": "2026-10-09",
       "gameId": "noida-king",
-      "value": "19"
+      "value": "39"
     },
     {
       "date": "2026-10-09",
@@ -5244,8 +5244,18 @@
     },
     {
       "date": "2026-10-09",
+      "gameId": "new-gali",
+      "value": "78"
+    },
+    {
+      "date": "2026-10-09",
       "gameId": "shalimar",
       "value": "13"
+    },
+    {
+      "date": "2026-10-09",
+      "gameId": "delhi-evening",
+      "value": "20"
     }
   ]
 }
