@@ -4804,13 +4804,38 @@
     },
     {
       "date": "2026-10-09",
+      "gameId": "super-delhi",
+      "value": "05"
+    },
+    {
+      "date": "2026-10-09",
       "gameId": "delhi-city",
       "value": "72"
     },
     {
       "date": "2026-10-09",
+      "gameId": "deep-sagar",
+      "value": "91"
+    },
+    {
+      "date": "2026-10-09",
+      "gameId": "delhi-dream",
+      "value": "79"
+    },
+    {
+      "date": "2026-10-09",
       "gameId": "super-taj",
       "value": "79"
+    },
+    {
+      "date": "2026-10-09",
+      "gameId": "meerut-metro",
+      "value": "42"
+    },
+    {
+      "date": "2026-10-09",
+      "gameId": "delhi-bazar",
+      "value": "87"
     },
     {
       "date": "2026-10-09",
