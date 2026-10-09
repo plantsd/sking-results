@@ -5221,6 +5221,11 @@
       "date": "2026-10-09",
       "gameId": "nepal",
       "value": "60"
+    },
+    {
+      "date": "2026-10-09",
+      "gameId": "new-ghaziabad",
+      "value": "65"
     }
   ]
 }
