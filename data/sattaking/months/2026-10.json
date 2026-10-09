@@ -5024,6 +5024,11 @@
     },
     {
       "date": "2026-10-09",
+      "gameId": "farida-bazar",
+      "value": "31"
+    },
+    {
+      "date": "2026-10-09",
       "gameId": "vip-agra",
       "value": "21"
     },
@@ -5211,6 +5216,11 @@
       "date": "2026-10-09",
       "gameId": "sai-darbar",
       "value": "19"
+    },
+    {
+      "date": "2026-10-09",
+      "gameId": "nepal",
+      "value": "60"
     }
   ]
 }
