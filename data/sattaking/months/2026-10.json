@@ -4889,6 +4889,26 @@
     },
     {
       "date": "2026-10-09",
+      "gameId": "dubai-delhi",
+      "value": "91"
+    },
+    {
+      "date": "2026-10-09",
+      "gameId": "chand-tara",
+      "value": "13"
+    },
+    {
+      "date": "2026-10-09",
+      "gameId": "super-savera",
+      "value": "02"
+    },
+    {
+      "date": "2026-10-09",
+      "gameId": "shiv-shakti",
+      "value": "98"
+    },
+    {
+      "date": "2026-10-09",
       "gameId": "noida-king",
       "value": "19"
     },
