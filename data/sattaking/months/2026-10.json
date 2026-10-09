@@ -5226,6 +5226,16 @@
       "date": "2026-10-09",
       "gameId": "new-ghaziabad",
       "value": "65"
+    },
+    {
+      "date": "2026-10-09",
+      "gameId": "ghaziabad",
+      "value": "89"
+    },
+    {
+      "date": "2026-10-09",
+      "gameId": "jaisalmer",
+      "value": "XX"
     }
   ]
 }
