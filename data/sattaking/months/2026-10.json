@@ -5234,8 +5234,18 @@
     },
     {
       "date": "2026-10-09",
+      "gameId": "bala-ji-dadri",
+      "value": "21"
+    },
+    {
+      "date": "2026-10-09",
       "gameId": "jaisalmer",
       "value": "XX"
+    },
+    {
+      "date": "2026-10-09",
+      "gameId": "shalimar",
+      "value": "13"
     }
   ]
 }
