@@ -4834,6 +4834,11 @@
     },
     {
       "date": "2026-10-09",
+      "gameId": "mohali",
+      "value": "62"
+    },
+    {
+      "date": "2026-10-09",
       "gameId": "delhi-bazar",
       "value": "87"
     },
@@ -4951,6 +4956,26 @@
       "date": "2026-10-09",
       "gameId": "maharaj",
       "value": "96"
+    },
+    {
+      "date": "2026-10-09",
+      "gameId": "uttarakhand-uk",
+      "value": "16"
+    },
+    {
+      "date": "2026-10-09",
+      "gameId": "sadabahar",
+      "value": "01"
+    },
+    {
+      "date": "2026-10-09",
+      "gameId": "old-faridabad",
+      "value": "59"
+    },
+    {
+      "date": "2026-10-09",
+      "gameId": "satta-king",
+      "value": "13"
     },
     {
       "date": "2026-10-09",
