@@ -5169,6 +5169,16 @@
     },
     {
       "date": "2026-10-09",
+      "gameId": "faridabad-super",
+      "value": "23"
+    },
+    {
+      "date": "2026-10-09",
+      "gameId": "ghaziabad-night",
+      "value": "19"
+    },
+    {
+      "date": "2026-10-09",
       "gameId": "shri-kanak",
       "value": "96"
     },
@@ -5176,6 +5186,31 @@
       "date": "2026-10-09",
       "gameId": "gold-bazar",
       "value": "35"
+    },
+    {
+      "date": "2026-10-09",
+      "gameId": "gali-gold",
+      "value": "20"
+    },
+    {
+      "date": "2026-10-09",
+      "gameId": "shiv-dhanush",
+      "value": "24"
+    },
+    {
+      "date": "2026-10-09",
+      "gameId": "rozana",
+      "value": "21"
+    },
+    {
+      "date": "2026-10-09",
+      "gameId": "bhagya-lakshmi",
+      "value": "83"
+    },
+    {
+      "date": "2026-10-09",
+      "gameId": "sai-darbar",
+      "value": "19"
     }
   ]
 }
