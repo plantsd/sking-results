@@ -4704,8 +4704,18 @@
     },
     {
       "date": "2026-10-09",
+      "gameId": "jaipur-king",
+      "value": "63"
+    },
+    {
+      "date": "2026-10-09",
       "gameId": "matka-king",
       "value": "75"
+    },
+    {
+      "date": "2026-10-09",
+      "gameId": "jd-durga",
+      "value": "15"
     },
     {
       "date": "2026-10-09",
@@ -4719,6 +4729,11 @@
     },
     {
       "date": "2026-10-09",
+      "gameId": "up-king",
+      "value": "23"
+    },
+    {
+      "date": "2026-10-09",
       "gameId": "agra-bazar",
       "value": "10"
     },
@@ -4726,6 +4741,11 @@
       "date": "2026-10-09",
       "gameId": "rajdhani-jaipur",
       "value": "24"
+    },
+    {
+      "date": "2026-10-09",
+      "gameId": "bihar-king",
+      "value": "76"
     },
     {
       "date": "2026-10-09",
@@ -4771,6 +4791,26 @@
       "date": "2026-10-09",
       "gameId": "gaj-kesri",
       "value": "65"
+    },
+    {
+      "date": "2026-10-09",
+      "gameId": "kalka-bazar",
+      "value": "93"
+    },
+    {
+      "date": "2026-10-09",
+      "gameId": "savera",
+      "value": "68"
+    },
+    {
+      "date": "2026-10-09",
+      "gameId": "delhi-city",
+      "value": "72"
+    },
+    {
+      "date": "2026-10-09",
+      "gameId": "super-taj",
+      "value": "79"
     },
     {
       "date": "2026-10-09",
