@@ -4989,6 +4989,21 @@
     },
     {
       "date": "2026-10-09",
+      "gameId": "old-city",
+      "value": "06"
+    },
+    {
+      "date": "2026-10-09",
+      "gameId": "mini-desawer",
+      "value": "57"
+    },
+    {
+      "date": "2026-10-09",
+      "gameId": "gurgaon",
+      "value": "79"
+    },
+    {
+      "date": "2026-10-09",
       "gameId": "noida-king",
       "value": "19"
     },
