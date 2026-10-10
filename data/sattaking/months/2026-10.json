@@ -5394,8 +5394,53 @@
     },
     {
       "date": "2026-10-10",
+      "gameId": "delhi-bazar",
+      "value": "71"
+    },
+    {
+      "date": "2026-10-10",
       "gameId": "meerut-city",
       "value": "01"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "new-taj",
+      "value": "00"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "chennai",
+      "value": "28"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "royal-challenge",
+      "value": "28"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "taj",
+      "value": "27"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "super-bazar",
+      "value": "16"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "royal-king",
+      "value": "86"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "delhi-bazar-day",
+      "value": "17"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "anarkali",
+      "value": "38"
     },
     {
       "date": "2026-10-10",
