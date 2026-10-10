@@ -5585,7 +5585,7 @@
     {
       "date": "2026-10-10",
       "gameId": "farida-bazar",
-      "value": "00"
+      "value": "17"
     },
     {
       "date": "2026-10-10",
@@ -5786,6 +5786,16 @@
       "date": "2026-10-10",
       "gameId": "nepal",
       "value": "21"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "new-ghaziabad",
+      "value": "86"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "ghaziabad",
+      "value": "71"
     }
   ]
 }
