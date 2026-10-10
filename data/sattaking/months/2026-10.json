@@ -5574,6 +5574,11 @@
     },
     {
       "date": "2026-10-10",
+      "gameId": "veera-king",
+      "value": "22"
+    },
+    {
+      "date": "2026-10-10",
       "gameId": "paras",
       "value": "63"
     },
@@ -5739,6 +5744,11 @@
     },
     {
       "date": "2026-10-10",
+      "gameId": "ghaziabad-night",
+      "value": "55"
+    },
+    {
+      "date": "2026-10-10",
       "gameId": "shri-kanak",
       "value": "16"
     },
@@ -5766,6 +5776,16 @@
       "date": "2026-10-10",
       "gameId": "bhagya-lakshmi",
       "value": "08"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "sai-darbar",
+      "value": "31"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "nepal",
+      "value": "21"
     }
   ]
 }
