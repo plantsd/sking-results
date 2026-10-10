@@ -5509,6 +5509,16 @@
     },
     {
       "date": "2026-10-10",
+      "gameId": "ahmedabad",
+      "value": "76"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "maharaj",
+      "value": "58"
+    },
+    {
+      "date": "2026-10-10",
       "gameId": "noida-king",
       "value": "46"
     },
