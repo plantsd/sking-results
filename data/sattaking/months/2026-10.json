@@ -5459,6 +5459,11 @@
     },
     {
       "date": "2026-10-10",
+      "gameId": "udaan-king",
+      "value": "58"
+    },
+    {
+      "date": "2026-10-10",
       "gameId": "super-savera",
       "value": "66"
     },
@@ -5466,6 +5471,11 @@
       "date": "2026-10-10",
       "gameId": "shiv-shakti",
       "value": "92"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "shri-nagar",
+      "value": "25"
     },
     {
       "date": "2026-10-10",
