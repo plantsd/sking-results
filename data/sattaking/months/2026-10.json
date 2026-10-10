@@ -5286,6 +5286,11 @@
       "date": "2026-10-10",
       "gameId": "chotta-bazar",
       "value": "49"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "new-delhi-darbar",
+      "value": "XX"
     }
   ]
 }
