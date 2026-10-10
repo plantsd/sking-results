@@ -5319,6 +5319,11 @@
     },
     {
       "date": "2026-10-10",
+      "gameId": "mumbai-bazaar",
+      "value": "59"
+    },
+    {
+      "date": "2026-10-10",
       "gameId": "ujala-super",
       "value": "31"
     },
@@ -5474,8 +5479,33 @@
     },
     {
       "date": "2026-10-10",
+      "gameId": "shri-ganesh",
+      "value": "06"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "ghaziabad-din",
+      "value": "76"
+    },
+    {
+      "date": "2026-10-10",
       "gameId": "shri-nagar",
       "value": "25"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "vip-king",
+      "value": "51"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "ds-number-1",
+      "value": "16"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "mahalaxmi-bazar",
+      "value": "83"
     },
     {
       "date": "2026-10-10",
