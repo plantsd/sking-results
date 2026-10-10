@@ -5354,13 +5354,48 @@
     },
     {
       "date": "2026-10-10",
+      "gameId": "kalka-bazar",
+      "value": "28"
+    },
+    {
+      "date": "2026-10-10",
       "gameId": "savera",
       "value": "10"
     },
     {
       "date": "2026-10-10",
+      "gameId": "super-delhi",
+      "value": "07"
+    },
+    {
+      "date": "2026-10-10",
       "gameId": "delhi-city",
       "value": "60"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "deep-sagar",
+      "value": "14"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "delhi-dream",
+      "value": "70"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "super-taj",
+      "value": "47"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "meerut-metro",
+      "value": "46"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "meerut-city",
+      "value": "01"
     },
     {
       "date": "2026-10-10",
@@ -5385,7 +5420,7 @@
     {
       "date": "2026-10-10",
       "gameId": "new-delhi-darbar",
-      "value": "XX"
+      "value": "00"
     },
     {
       "date": "2026-10-10",
