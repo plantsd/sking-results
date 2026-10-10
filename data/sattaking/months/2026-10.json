@@ -5524,6 +5524,11 @@
     },
     {
       "date": "2026-10-10",
+      "gameId": "faridabad",
+      "value": "08"
+    },
+    {
+      "date": "2026-10-10",
       "gameId": "sadabahar",
       "value": "42"
     },
@@ -5531,6 +5536,11 @@
       "date": "2026-10-10",
       "gameId": "satta-king",
       "value": "33"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "kings",
+      "value": "31"
     },
     {
       "date": "2026-10-10",
