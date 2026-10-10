@@ -5654,6 +5654,46 @@
     },
     {
       "date": "2026-10-10",
+      "gameId": "gali-disawar-mix",
+      "value": "49"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "maa-lakshmi-delhi",
+      "value": "44"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "up-bazar",
+      "value": "24"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "hindustan",
+      "value": "64"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "bombay-super",
+      "value": "88"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "delhi-king",
+      "value": "56"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "moti-city",
+      "value": "68"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "shivraj-786",
+      "value": "85"
+    },
+    {
+      "date": "2026-10-10",
       "gameId": "noida-king",
       "value": "46"
     },
@@ -5681,6 +5721,11 @@
       "date": "2026-10-10",
       "gameId": "new-punjab",
       "value": "30"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "shri-kanak",
+      "value": "16"
     }
   ]
 }
