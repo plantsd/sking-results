@@ -5826,6 +5826,11 @@
       "date": "2026-10-10",
       "gameId": "gali",
       "value": "12"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "choti-gali",
+      "value": "99"
     }
   ]
 }
