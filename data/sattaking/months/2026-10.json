@@ -5796,6 +5796,26 @@
       "date": "2026-10-10",
       "gameId": "ghaziabad",
       "value": "71"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "bala-ji-dadri",
+      "value": "41"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "jaisalmer",
+      "value": "92"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "shalimar",
+      "value": "61"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "delhi-evening",
+      "value": "40"
     }
   ]
 }
