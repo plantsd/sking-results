@@ -5269,6 +5269,51 @@
     },
     {
       "date": "2026-10-10",
+      "gameId": "burj-khalifa-bk",
+      "value": "30"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "agra-bazar",
+      "value": "91"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "rajdhani-jaipur",
+      "value": "43"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "janta-city",
+      "value": "18"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "ujala-super",
+      "value": "31"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "punjab-king",
+      "value": "XX"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "new-jaipur-king",
+      "value": "82"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "matka-sone-ka",
+      "value": "50"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "super-king",
+      "value": "54"
+    },
+    {
+      "date": "2026-10-10",
       "gameId": "royal-bazar",
       "value": "64"
     },
