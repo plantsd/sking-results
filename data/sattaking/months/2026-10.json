@@ -5439,8 +5439,33 @@
     },
     {
       "date": "2026-10-10",
+      "gameId": "maa-bhagwati",
+      "value": "24"
+    },
+    {
+      "date": "2026-10-10",
       "gameId": "anarkali",
       "value": "38"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "dubai-delhi",
+      "value": "14"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "chand-tara",
+      "value": "15"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "super-savera",
+      "value": "66"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "shiv-shakti",
+      "value": "92"
     },
     {
       "date": "2026-10-10",
