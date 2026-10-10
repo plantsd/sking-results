@@ -5330,7 +5330,7 @@
     {
       "date": "2026-10-10",
       "gameId": "punjab-king",
-      "value": "XX"
+      "value": "18"
     },
     {
       "date": "2026-10-10",
@@ -5546,6 +5546,26 @@
       "date": "2026-10-10",
       "gameId": "kings",
       "value": "31"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "old-city",
+      "value": "09"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "neelkanth",
+      "value": "16"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "mini-desawer",
+      "value": "32"
+    },
+    {
+      "date": "2026-10-10",
+      "gameId": "gurgaon",
+      "value": "33"
     },
     {
       "date": "2026-10-10",
